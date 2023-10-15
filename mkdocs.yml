@@ -43,7 +43,7 @@ theme:
   name: material
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-    primary: green
+    primary: blue
     accent: yellow
   font:
     # See available fonts at https://fonts.google.com/
@@ -57,9 +57,10 @@ theme:
     - navigation.expand
     - navigation.indexes
     - navigation.instant
+    - navigation.tabs
     # - navigation.prune
     # - navigation.sections
-    - navigation.tabs
+  
     - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
