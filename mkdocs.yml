@@ -11,16 +11,11 @@ repo_url: 'https://github.com/fablabbcn/mdef-template'
 nav:
   - Home: index.md
   - About: about/me.md
-  - Master project:
-      - Initial ideas: project/project.md
   - Reflections :
       - Term 1:
           - Landing: term1/01-Landing.md
-          - New thing: term1/Landing/Gitclass.md
           - AoWS: term1/02-Atlas of Weak Signals.md
-      - Term 2:
-          - digi: term1/01-Landing.md
-          - studio: term1/01-Landing.md
+          - Design Studio: term1/03-DesignStudio.md
 
 
 
@@ -44,10 +39,10 @@ theme:
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
     primary: white
-    accent: yellow
+    accent: deep orange
   font:
     # See available fonts at https://fonts.google.com/
-    text: Rozha One
+    text: Playfair Display
     code: Lato
   icon:
     logo: material/memory
