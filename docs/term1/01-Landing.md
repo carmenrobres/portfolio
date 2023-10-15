@@ -5,7 +5,7 @@ hide:
 
 # Landing
 
-![](../images/group8.jpg)
+![](../images/ME.jpg)
 
 October 8th
 As I step into this new phase of my education and career journey, I can't help but feel excited about the fresh changes and opportunities ahead. Every day, I'm gaining a lot of new knowledge, which reminds me why I decided to pursue this master's degree in the first place. Meeting fellow students and educators this week has been truly inspiring, and I believe we're all set for an enriching journey where we'll learn and grow together as a class and comunity.
@@ -17,17 +17,17 @@ To sum it up, this week has taught me that my journey won't be a perfect, straig
 
 # Day to day
 
-![](../images/2023-10-03 13_57_17.305(1).jpg)
+![](../images/Group1.jpg)
 THE OBJECTS THAT DEFINES US
 On the first day of class we talked about the objects that are connected to your identity, history, background, wishes, desires, or interests. This exercise helped me get to know my classmates better and learn about their backgrounds and experiences. It also made me realize how objects can have various meanings for us. As a product designer, I aspire to create something in the future that is so essential and personal that it becomes a part of who you are and reflects your identity and desires. It is funny how a shoe or a simple watch can be part of your background and history and can mean something more than just the purpose it was made for.
 
-![](../images/2023-10-04 15_50_33.975.jpg)
+![](../images/Poblenou.jpg)
 ![](../images/2023-10-04 15_49_23.815.jpg)
 DISCOVERING A NEW BARCELONA: The secrets of Poblenou
 Being from Barcelona, it was really exciting to explore new places I've never been before. I'm really looking forward to seeing a different side of Barcelona through the perspective of Iaac and my classmates.
 
 
-![](../images/2023-10-06 11_20_43.655.jpg)
+![](../images/Elisava.jpg)
 ELISAVA
 Visiting Elisava was a really exciting experience for me. Throughout my academic journey, I had considered studying there for both my bachelor's and master's degrees. However, I always felt that my technical background might not align with the design focus of the school.
 
