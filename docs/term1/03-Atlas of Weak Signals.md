@@ -8,13 +8,13 @@ hide:
 ### Introduction
 At the beginning of the week I didn’t know what to expect from this course nor did I know what “weak signals” were. After navigating through different topics, playing with our Atlas of Weak Signals card game and debating with our classmates, I started to understand the concept and purpose of this seminar. The main focus of this class was for us to understand that designing for emergent futures can be difficult since we do not know what the future might be, and that in order for us to design we need to sit with ourselves and determine every fragile indicator within our lives that has the potential in changing the future.
 
-![](../images/AoWS/astetic.jpg)
+![](../images/AoWS/astetic.JPG)
 
 ### First deliverable
 During the course of the week we were told to explore the cards and pick the ones that relate more to us. We were little by little creating our own Design Space in which we mirrored our lives, passions, thoughts and old projects. With that in mind, we were designing a clear image of what proactive strategies we could do to support our interests and contribute positively to society to create and adapt to change.
 In my case, coming from a background in product design engineering and growing up as a 23-year-old woman in a society influenced by technology, media, and a patriarchal family, I've developed various interests that drive me to seek change in our current societal norms. The weak signals that have caught my interest are: 
 
-![](../images/AoWS/CARds(2).jpg)
+![](../images/AoWS/CARds (2).jpg)
 
 ### My Final Design Space
 ![](../images/AoWS/FINAL.jpg)
