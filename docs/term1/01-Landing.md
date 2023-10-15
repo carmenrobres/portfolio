@@ -15,21 +15,19 @@ To sum it up, this week has taught me that my journey won't be a perfect, straig
 ![](../images/ME.jpg)
 
 # Day to day
-
-![](../images/Group1.jpg)
 ### THE OBJECTS THAT DEFINES US
 On the first day of class we talked about the objects that are connected to your identity, history, background, wishes, desires, or interests. This exercise helped me get to know my classmates better and learn about their backgrounds and experiences. It also made me realize how objects can have various meanings for us. As a product designer, I aspire to create something in the future that is so essential and personal that it becomes a part of who you are and reflects your identity and desires. It is funny how a shoe or a simple watch can be part of your background and history and can mean something more than just the purpose it was made for.
+![](../images/Group1.jpg)
 
-![](../images/Poblenou.jpg)
 ### DISCOVERING A NEW BARCELONA: The secrets of Poblenou
 Being from Barcelona, it was really exciting to explore new places I've never been before. I'm really looking forward to seeing a different side of Barcelona through the perspective of Iaac and my classmates.
+![](../images/Poblenou.jpg)
 
-
-![](../images/Elisava.jpg)
 ### ELISAVA
 Visiting Elisava was a really exciting experience for me. Throughout my academic journey, I had considered studying there for both my bachelor's and master's degrees. However, I always felt that my technical background might not align with the design focus of the school.
 
 Elisava boasts impressive facilities and a wealth of laboratories that encourage curiosity and learning. In my opinion, I've made the right choice by pursuing this master's program at Iaac. It's evident that Elisava has a large student body with numerous classes and seminars, which means you may feel like just another student in the daily routine. In contrast, at IAAC, you become part of a close-knit community, offering you the freedom to design without constraints.
 
 Choosing this master's program offers the best of both worlds. You can enjoy the privilege of utilizing Elisava's labs while also benefiting from the freedom that IAAC provides, allowing you to use the Fab Lab for your individual projects.
+![](../images/Elisava.jpg)
 
