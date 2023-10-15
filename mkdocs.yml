@@ -10,7 +10,7 @@ repo_url: 'https://github.com/fablabbcn/mdef-template'
 
 nav:
   - Home: index.md
-  - About: about/me.md
+  - About Me: about/me.md
   - Reflections :
       - Term 1:
           - Landing: term1/01-Landing.md
@@ -42,7 +42,7 @@ theme:
     accent: deep orange
   font:
     # See available fonts at https://fonts.google.com/
-    text: Playfair Display
+    text: Lato
     code: Lato
   icon:
     logo: material/memory
