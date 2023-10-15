@@ -37,7 +37,6 @@ extra:
 
 theme:
   name: material
-  custom_dir: "custom"
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
     primary: white
