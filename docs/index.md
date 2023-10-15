@@ -1,5 +1,5 @@
 ## Welcome
 
-![](../images/perezoso.jpg)
+![](../images/Desktop1.jpg)
 
 Welcome to my life 
