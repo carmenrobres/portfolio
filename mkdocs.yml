@@ -38,7 +38,7 @@ extra:
 theme:
   name: material
   palette:
-    primary: white
+    primary: custom
     accent: deep orange
   font:
     # See available fonts at https://fonts.google.com/
@@ -50,9 +50,15 @@ theme:
   features:
    - instant
     - navigation.expand
+    - navigation.indexes
+    - navigation.instant
+    - navigation.prune
+    - navigation.sections
+    #- toc.integrate
     - navigation.tabs
-    - toc.autohide
-    - tabs
+    - navigation.tabs.sticky
+    #- navigation.top
+    - navigation.tracking
   custom_dir: 'custom_theme'
     
 
