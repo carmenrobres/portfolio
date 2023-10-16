@@ -506,58 +506,96 @@ Nevertheless, every day in class, I learn new things from my classmates, and it&
         </div>
       </main>
       
-        
+        <!--
+  Copyright (c) 2016-2018 Martin Donath <martin.donath@squidfunk.com>
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+
+
+<!-- Application footer -->
 <footer class="md-footer">
+
+  <!-- Link to previous and/or next page -->
   
     <div class="md-footer-nav">
-      <nav class="md-footer-nav__inner md-grid" aria-label="Footer">
+      <nav class="md-footer-nav__inner md-grid">
+
+        <!-- Link to previous page -->
         
-          <a href="../../about/me/" title="About Me" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
-            <div class="md-footer-nav__button md-icon">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+          <a href="../../about/me/"
+              title="About Me"
+              class="md-flex md-footer-nav__link md-footer-nav__link--prev"
+              rel="prev">
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-back
+                    md-footer-nav__button"></i>
             </div>
-            <div class="md-footer-nav__title">
-              <div class="md-ellipsis">
+            <div class="md-flex__cell md-flex__cell--stretch
+                  md-footer-nav__title">
+              <span class="md-flex__ellipsis">
                 <span class="md-footer-nav__direction">
                   Previous
                 </span>
                 About Me
-              </div>
+              </span>
             </div>
           </a>
         
+
+        <!-- Link to next page -->
         
-          <a href="../02-DesignStudio/" title="Design Studio" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
-            <div class="md-footer-nav__title">
-              <div class="md-ellipsis">
+          <a href="../02-DesignStudio/"
+              title="Design Studio"
+              class="md-flex md-footer-nav__link md-footer-nav__link--next"
+              rel="next">
+            <div class="md-flex__cell md-flex__cell--stretch
+                  md-footer-nav__title">
+              <span class="md-flex__ellipsis">
                 <span class="md-footer-nav__direction">
                   Next
                 </span>
                 Design Studio
-              </div>
+              </span>
             </div>
-            <div class="md-footer-nav__button md-icon">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-forward
+                    md-footer-nav__button"></i>
             </div>
           </a>
         
       </nav>
     </div>
   
+
+  <!-- Further information -->
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">
+
+      <!-- Copyright and theme information -->
       <div class="md-footer-copyright">
-        
-          <div class="md-footer-copyright__highlight">
-            Copyleft 2023 "Carmen Robres de Veciana" - GNU Free Documentation License
-          </div>
-        
-        Made with
-        <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
-          Material for MkDocs
-        </a>
       </div>
+
+      <!-- Social links -->
       
+        
   <div class="md-footer-social">
     
       
@@ -607,6 +645,7 @@ Nevertheless, every day in class, I learn new things from my classmates, and it&
     
   </div>
 
+      
     </div>
   </div>
 </footer>
@@ -619,7 +658,7 @@ Nevertheless, every day in class, I learn new things from my classmates, and it&
       <script>
         app = initialize({
           base: "../..",
-          features: ["instant", "navigation.tabs", "toc.integrate", "navigation.tabs.sticky"],
+          features: ["instant - navigation.expand - navigation.tabs - toc.autohide - tabs"],
           search: Object.assign({
             worker: "../../assets/javascripts/worker/search.5eca75d3.min.js"
           }, typeof search !== "undefined" && search)
