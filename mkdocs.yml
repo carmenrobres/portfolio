@@ -51,16 +51,16 @@ theme:
   favicon: images/favicon.svg
   features:
     - instant
-    - navigation.expand
+    #- navigation.expand
     #- navigation.indexes
-    - navigation.instant
+    #- navigation.instant
     - navigation.tabs
     # - navigation.prune
     # - navigation.sections
     - toc.integrate
     - navigation.tabs.sticky
-    - navigation.top
-    - navigation.tracking
+    #- navigation.top
+    #- navigation.tracking
 
 plugins:
   - search
