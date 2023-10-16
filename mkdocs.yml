@@ -19,8 +19,6 @@ nav:
 
 
 
-
-
 extra:
   social:
     # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
@@ -38,7 +36,7 @@ extra:
 theme:
   name: material
   palette:
-    scheme: youtube
+    scheme: mypalette
   font:
     # See available fonts at https://fonts.google.com/
     text: Lato
