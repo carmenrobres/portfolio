@@ -38,8 +38,7 @@ extra:
 theme:
   name: material
   palette:
-    scheme: "youtube"
-    accent: deep orange
+    scheme: youtube
   font:
     # See available fonts at https://fonts.google.com/
     text: Lato
