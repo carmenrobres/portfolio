@@ -15,9 +15,9 @@ body {
 }
 
 [data-md-color-scheme="mypalette"] {
-  --md-primary-fg-color:        #FFFCFA;
-  --md-primary-fg-color--light: #244C43;
-  --md-primary-fg-color--dark:  #244C43;
+  --md-primary-fg-color:        #E17858;
+  --md-primary-fg-color--light: #E17858;
+  --md-primary-fg-color--dark:  #E17858;
 }
 
 .hide-scroll-bar {
