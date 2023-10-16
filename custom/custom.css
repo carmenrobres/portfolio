@@ -2,3 +2,10 @@ body {
     background-color: #FFFCFA;
 }
 
+:root>* {
+
+    --md-primary-fg-color:        #597d49;
+    --md-primary-fg-color--light: #b7ecd8;
+    --md-primary-fg-color--dark:  #039029;
+
+}
