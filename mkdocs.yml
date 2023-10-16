@@ -59,7 +59,6 @@ theme:
     - navigation.tabs.sticky
     #- navigation.top
     - navigation.tracking
-  custom_dir: 'custom_theme'
     
 
 plugins:
