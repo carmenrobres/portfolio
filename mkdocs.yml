@@ -37,9 +37,7 @@ extra:
 
 theme:
   name: material
-  custom_dir: custom
   palette:
-    # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
     primary: white
     accent: deep orange
   font:
@@ -50,17 +48,13 @@ theme:
     logo: material/memory
   favicon: images/favicon.svg
   features:
-    - instant
-    #- navigation.expand
-    #- navigation.indexes
-    #- navigation.instant
+   - instant
+    - navigation.expand
     - navigation.tabs
-    # - navigation.prune
-    # - navigation.sections
-    - toc.integrate
-    - navigation.tabs.sticky
-    #- navigation.top
-    #- navigation.tracking
+    - toc.autohide
+    - tabs
+  custom_dir: 'custom_theme'
+    
 
 plugins:
   - search
