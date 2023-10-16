@@ -1,6 +1,6 @@
 :root>* {
 
-    --md-footer-bg-color: #E17858;
+    --md-footer-bg-color: #ffffff;
     --md-footer-fg-color: rgb(32, 32, 32);
     --md-footer-bg-color--dark: white;
     --md-footer-fg-color--lighter:  rgb(32, 32, 32);
@@ -11,6 +11,9 @@
 
 }
 
+body {
+  background-color: #FFFCFA;
+}
 
 .hide-scroll-bar {
     -ms-overflow-style: none;
