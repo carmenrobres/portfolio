@@ -15,9 +15,9 @@ body {
 }
 
 [data-md-color-scheme="mypalette"] {
-  --md-primary-fg-color:        #FFFCFA;
-  --md-primary-fg-color--light: #FFFCFA;
-  --md-primary-fg-color--dark:  #FFFCFA;
+  --md-primary-fg-color:        #244C43;
+  --md-primary-fg-color--light: #244C43;
+  --md-primary-fg-color--dark:  #244C43;
   --md-accent-bg-color:                   #E17858;
   --md-accent-bg-color--light:            #E17858;
   --md-accent-bg-color:                   #E17858;
