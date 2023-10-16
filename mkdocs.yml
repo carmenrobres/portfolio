@@ -38,7 +38,7 @@ extra:
 theme:
   name: material
   palette:
-    primary: custom
+    primary: teal
     accent: deep orange
   font:
     # See available fonts at https://fonts.google.com/
