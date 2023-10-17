@@ -1,13 +1,13 @@
 :root>* {
 
-    --md-footer-bg-color: #FFFCFA;
-    --md-footer-fg-color: #E17858;
-    --md-footer-bg-color--dark: #FFFCFA;
-    --md-footer-fg-color--lighter:  #E17858;
-    --md-footer-fg-color--light:  #E17858;
-    --mdc-typography-headline6-font-family: 'Rozha One', serif;
+    --md-footer-bg-color: #FFFCFA;  /*this changes the colour of the navigation footer, where the navigation arrows sit*/
+    --md-footer-fg-color: #E17858; /*this changes the colour of the text in bottom footer, e.g navigation arrows and text*/
+    --md-footer-bg-color--dark: #FFFCFA; /*this changes the colour of the bottom footer, where the copyright and icons sit*/
+    --md-footer-fg-color--lighter:  #244C43; /*this changes the colour of the text in the most bottom footer, - specifically "Made with" - where the copyright and icons sit*/
+    --md-footer-fg-color--light:  #244C43; /*this changes the colour of the text  in the most bottom footer,  the copyright */
+    --mdc-typography-headline1-font-family: 'Rozha One', serif;
     --mdc-typography-font-family: 'Be Vietnam', sans-serif;
-    --md-typeset-a-color: #E17858;
+    --md-typeset-a-color: #244C43; /*this changes the colour of the bottom footer, where the copyright and icons sit*/
 }
 
 body {
@@ -21,9 +21,9 @@ body {
   --md-accent-bg-color:                   #E17858;
   --md-accent-bg-color--light:            #E17858;
   --md-accent-bg-color:                   #E17858;
-  --md-accent-fg-color:                   #244C43;
-  --md-accent-fg-color--light:            #244C43;
-  --md-accent-fg-color--transparent:      #244C43;
+  --md-accent-fg-color:                   #699ADA;
+  --md-accent-fg-color--light:            #699ADA;
+  --md-accent-fg-color--transparent:      #699ADA;
 }
 
 .hide-scroll-bar {
