@@ -16,6 +16,4 @@ The most important thing in my life is my friends; they are what I value most in
 Currently, I'm in a phase of self-discovery and healing from past wounds that have affected my mental health. I'm very excited to start the MDEF master's program at IAAC because I know it will help me deconstruct my habits and beliefs, learn more about the world and myself, and enable me to contribute to our society
 
 ### If my life was a movie this would be my soundtrack
-**[Menchu's Soundtrack](https://open.spotify.com/playlist/7LWVqOZoGbM0yXZO1MD4CM?si=1a475f3d06404da8)**
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7LWVqOZoGbM0yXZO1MD4CM?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7LWVqOZoGbM0yXZO1MD4CM?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
