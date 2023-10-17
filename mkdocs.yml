@@ -35,6 +35,7 @@ extra:
 
 theme:
   name: material
+  custom_dir: custom
   palette:
     scheme: mypalette
   font: false
