@@ -17,4 +17,5 @@ Currently, I'm in a phase of self-discovery and healing from past wounds that ha
 
 ### If my life was a movie this would be my soundtrack
 **[Menchu's Soundtrack](https://open.spotify.com/playlist/7LWVqOZoGbM0yXZO1MD4CM?si=1a475f3d06404da8)**
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7LWVqOZoGbM0yXZO1MD4CM?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
