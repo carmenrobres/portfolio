@@ -1,13 +1,13 @@
 :root>* {
 
-    --md-footer-bg-color: #fffcfa;
+    --md-footer-bg-color: #FFFCFA;
     --md-footer-fg-color: #FFFCFA;
-    --md-footer-bg-color--dark: #fffcfa;
-    --md-footer-fg-color--lighter:  #fffcfa;
+    --md-footer-bg-color--dark: #FFFCFA;
+    --md-footer-fg-color--lighter:  #FFFCFA;
     --md-footer-fg-color--light:  #FFFCFA;
     --mdc-typography-headline6-font-family: 'Rozha One', serif;
     --mdc-typography-font-family: 'Be Vietnam', sans-serif;
-    --md-typeset-a-color: #fffcfa;
+    --md-typeset-a-color: #244C43;
 }
 
 body {
