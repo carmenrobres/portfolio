@@ -48,14 +48,16 @@ theme:
   features:
     - instant
     - navigation.expand
-    - navigation.indexes
+    #- navigation.indexes
     - navigation.instant
     # - navigation.prune
     # - navigation.sections
     - navigation.tabs
     - navigation.tabs.sticky
+    - navigation.indexes
     - navigation.top
     - navigation.tracking
+    - toc.integrate
     
 
 plugins:
