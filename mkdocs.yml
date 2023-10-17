@@ -37,10 +37,10 @@ theme:
   name: material
   palette:
     scheme: mypalette
-  font:
+  font: false
     # See available fonts at https://fonts.google.com/
-    text: Lato
-    code: Lato
+    #text: Lato
+    #code: Lato
   icon:
     logo: material/memory
   favicon: images/favicon.svg
