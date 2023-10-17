@@ -1,3 +1,8 @@
+---
+hide:
+    - toc
+---
+
 # About me
 ## A little too personal?
 ---
