@@ -1,13 +1,17 @@
 :root>* {
 
-    --md-footer-bg-color: #FFFCFA;  /*this changes the colour of the navigation footer, where the navigation arrows sit*/
-    --md-footer-fg-color: #E17858; /*this changes the colour of the text in bottom footer, e.g navigation arrows and text*/
-    --md-footer-bg-color--dark: #FFFCFA; /*this changes the colour of the bottom footer, where the copyright and icons sit*/
-    --md-footer-fg-color--lighter:  #244C43; /*this changes the colour of the text in the most bottom footer, - specifically "Made with" - where the copyright and icons sit*/
-    --md-footer-fg-color--light:  #244C43; /*this changes the colour of the text  in the most bottom footer,  the copyright */
-    --mdc-typography-headline1-font-family: 'Rozha One', serif;
-    --mdc-typography-font-family: 'Be Vietnam', sans-serif;
-    --md-typeset-a-color: #244C43; /*this changes the colour of the bottom footer, where the copyright and icons sit*/
+  --md-footer-bg-color: #FFFCFA;  /*this changes the colour of the navigation footer, where the navigation arrows sit*/
+  --md-footer-fg-color: #E17858; /*this changes the colour of the text in bottom footer, e.g navigation arrows and text*/
+  --md-footer-bg-color--dark: #FFFCFA; /*this changes the colour of the bottom footer, where the copyright and icons sit*/
+  --md-footer-fg-color--lighter:  #244C43; /*this changes the colour of the text in the most bottom footer, - specifically "Made with" - where the copyright and icons sit*/
+  --md-footer-fg-color--light:  #244C43; /*this changes the colour of the text  in the most bottom footer,  the copyright */
+  --mdc-typography-headline1-font-family: 'Rozha One', serif;
+  --mdc-typography-font-family: 'Be Vietnam', sans-serif;
+  --md-typeset-a-color: #244C43; /*this changes the colour of the bottom footer, where the copyright and icons sit*/
+}
+
+body {
+background-color: #FFFCFA;
 }
 
 body {
