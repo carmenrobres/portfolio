@@ -1,8 +1,8 @@
 :root>* {
 
-    --md-footer-bg-color: #E17858;
+    --md-footer-bg-color: #fffcfa;
     --md-footer-fg-color: #FFFCFA;
-    --md-footer-bg-color--dark: #E17858;
+    --md-footer-bg-color--dark: #fffcfa;
     --md-footer-fg-color--lighter:  #fffcfa;
     --md-footer-fg-color--light:  #FFFCFA;
     --mdc-typography-headline6-font-family: 'Rozha One', serif;
