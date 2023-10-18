@@ -7,7 +7,6 @@ hide:
 
 ### Introduction
 At the beginning of the week I didn’t know what to expect from this course nor did I know what “weak signals” were. After navigating through different topics, playing with our Atlas of Weak Signals card game and debating with our classmates, I started to understand the concept and purpose of this seminar. The main focus of this class was for us to understand that designing for emergent futures can be difficult since we do not know what the future might be, and that in order for us to design we need to sit with ourselves and determine every fragile indicator within our lives that has the potential in changing the future.
-![Image title]([](../images/AoWS/astetic.JPG)){ align=left }
 
 ![](../images/AoWS/astetic.JPG)
 
