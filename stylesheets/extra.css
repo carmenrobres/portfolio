@@ -12,24 +12,23 @@
 
 .md-typeset h1 {
   color: #244C43;
-  font-family: "<Rozha One>";
+  font-family: "<Merriweather>";
 }
 
 .md-typeset h2 {
   color: #244C43;
-  font-family: "<Rozha One>";
+  font-family: "<Merriweather>";
 }
 
 .md-typeset h3 {
   color: #244C43;
-  font-family: "<Rozha One>";
+  font-family: "<Merriweather>";
 }
 
 .md-header__title {
-  color: #ffffff;
-  font-family: "<Rozha One>";
+  color: #FFFCFA;
+  font-family: "<Merriweather>";
 }
-
 
 body {
     background-color: #FFFCFA;
