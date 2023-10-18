@@ -8,9 +8,28 @@
   --mdc-typography-headline1-font-family: 'Rozha One', serif;
   --mdc-typography-font-family: 'Be Vietnam', sans-serif;
   --md-typeset-a-color: #E17858; /*this changes the colour of the bottom footer, where the copyright and icons sit*/
-  --md-text-font: "<Lato>"; 
-  --md-code-font: "<Rozha One>";
 }
+
+.md-typeset h1 {
+  color: #244C43;
+  font-family: "<Rozha One>";
+}
+
+.md-typeset h2 {
+  color: #244C43;
+  font-family: "<Rozha One>";
+}
+
+.md-typeset h3 {
+  color: #244C43;
+  font-family: "<Rozha One>";
+}
+
+.md-header__title {
+  color: #ffffff;
+  font-family: "<Rozha One>";
+}
+
 
 body {
     background-color: #FFFCFA;

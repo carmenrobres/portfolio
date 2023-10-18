@@ -35,9 +35,9 @@ theme:
     scheme: mypalette
   font: 
     # See available fonts at https://fonts.google.com/
-    text: Lato
-    headings: Rozha One
-    code: Lato
+    text: 'Lato, sans-serif'
+    headings: 'Rozha One, cursive'
+    code: 'Lato, cursive'
   icon:
     logo: material/memory
   favicon: images/favicon.svg
