@@ -37,7 +37,6 @@ theme:
   font: false
     # See available fonts at https://fonts.google.com/
     text: Lato, sans serif
-    headings: Rozha One, serif
     code: Lato
   icon:
     logo: material/memory
