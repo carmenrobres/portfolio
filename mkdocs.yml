@@ -36,8 +36,8 @@ theme:
     scheme: mypalette
   font: false
     # See available fonts at https://fonts.google.com/
-    text: Lato, sans serif
-    headings: Rozha One, serif
+    text: Lato
+    headings: Rozha One
     code: Lato
   icon:
     logo: material/memory
