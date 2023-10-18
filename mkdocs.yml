@@ -34,7 +34,7 @@ theme:
   custom_dir: custom
   palette:
     scheme: mypalette
-  font: false
+  font: 
     # See available fonts at https://fonts.google.com/
     text: Lato
     code: Lato
