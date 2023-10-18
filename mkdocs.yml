@@ -23,7 +23,7 @@ extra:
   social:
     # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
     - icon: fontawesome/brands/instagram
-      link: "https://www.instagram.com/carmen_robres/""
+      link: "https://www.instagram.com/carmen_robres/"
     - icon: fontawesome/brands/linkedin
       link: "https://www.linkedin.com/in/carmen-robres-de-veciana-9b2b481b2/""
     - icon: fontawesome/brands/github
@@ -37,6 +37,7 @@ theme:
   font: false
     # See available fonts at https://fonts.google.com/
     text: Lato, sans serif
+    headings: Rozha One, serif
     code: Lato
   icon:
     logo: material/memory
