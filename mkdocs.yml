@@ -11,27 +11,23 @@ repo_url: 'https://github.com/fablabbcn/mdef-template'
 nav:
   - Home: index.md
   - About Me: about/me.md
-  - Reflections :
-      - Term 1:
-          - Landing: term1/01-Landing.md
-          - Design Studio: term1/02-DesignStudio.md
-          - AoWS: term1/03-Atlas of Weak Signals.md
+  - Term 1:
+      - Landing: term1/01-Landing.md
+      - Documenting Design: term1/02-DocumentingDesign.md
+      - Design Studio: term1/02-DesignStudio.md
+      - AoWS: term1/03-Atlas of Weak Signals.md
 
 
 
 extra:
   social:
     # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
-    - icon: fontawesome/brands/medium
-      link: https://medium.com/
     - icon: fontawesome/brands/instagram
-      link: https://instagram.com/
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/
+      link: "https://www.instagram.com/carmen_robres/""
     - icon: fontawesome/brands/linkedin
-      link: "https://www.linkedin.com/in/"
+      link: "https://www.linkedin.com/in/carmen-robres-de-veciana-9b2b481b2/""
     - icon: fontawesome/brands/github
-      link: "https://github.com/"
+      link: "https://github.com/carmenrobres"
 
 theme:
   name: material
@@ -40,8 +36,9 @@ theme:
     scheme: mypalette
   font: false
     # See available fonts at https://fonts.google.com/
-    #text: Lato
-    #code: Lato
+    text: Lato, sans serif
+    headings: Rozha One, serif
+    code: Lato
   icon:
     logo: material/memory
   favicon: images/favicon.svg

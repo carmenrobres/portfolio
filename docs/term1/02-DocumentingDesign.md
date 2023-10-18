@@ -1,0 +1,6 @@
+---
+hide:
+    - toc
+---
+
+# Documenting Design
