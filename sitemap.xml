@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://carmenrobres.github.io/portfolio/</loc>
-         <lastmod>2023-10-19</lastmod>
+         <lastmod>2023-10-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://carmenrobres.github.io/portfolio/about/me/</loc>
-         <lastmod>2023-10-19</lastmod>
+         <lastmod>2023-10-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://carmenrobres.github.io/portfolio/project/project/</loc>
-         <lastmod>2023-10-19</lastmod>
+         <lastmod>2023-10-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://carmenrobres.github.io/portfolio/term1/01-Landing/</loc>
-         <lastmod>2023-10-19</lastmod>
+         <lastmod>2023-10-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://carmenrobres.github.io/portfolio/term1/02-DocumentingDesign/</loc>
-         <lastmod>2023-10-19</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://carmenrobres.github.io/portfolio/term1/03-DesignStudio/</loc>
-         <lastmod>2023-10-19</lastmod>
+         <lastmod>2023-10-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://carmenrobres.github.io/portfolio/term1/04-AtlasofWeakSignals/</loc>
-         <lastmod>2023-10-19</lastmod>
+         <lastmod>2023-10-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://carmenrobres.github.io/portfolio/term1/03-DesignStudioF/03-Prototyping/</loc>
+         <lastmod>2023-10-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
