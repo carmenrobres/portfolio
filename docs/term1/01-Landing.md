@@ -13,8 +13,6 @@ Nevertheless, every day in class, I learn new things from my classmates, and it'
 
 To sum it up, this week has taught me that my journey won't be a perfect, straightforward path; there will be plenty of mistakes along the way as I learn and grow. I'm actively working on becoming more open-minded, creative, and adept at expressing my ideas clearly while exploring various subjects. My primary goal remains making a positive impact, and although I have a general direction in mind, I'm open to discovering new interests and possibilities along the way.
 
-
-
 ## Day to day
 ### The objects that defines us
 On the first day of class we talked about the objects that are connected to your identity, history, background, wishes, desires, or interests. This exercise helped me get to know my classmates better and learn about their backgrounds and experiences. It also made me realize how objects can have various meanings for us. As a product designer, I aspire to create something in the future that is so essential and personal that it becomes a part of who you are and reflects your identity and desires. It is funny how a shoe or a simple watch can be part of your background and history and can mean something more than just the purpose it was made for.

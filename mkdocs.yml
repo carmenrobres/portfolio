@@ -14,7 +14,8 @@ nav:
   - Term 1:
       - Landing: term1/01-Landing.md
       - Documenting Design: term1/02-DocumentingDesign.md
-      - Design Studio: term1/03-DesignStudio.md
+      - Design Studio: 
+        - Roles of Prototyping: term1/03-DesignStudioF/03-Prototyping.md
       - AoWS: term1/04-AtlasofWeakSignals.md
 
 
