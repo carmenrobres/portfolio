@@ -40,9 +40,9 @@ theme:
     text: 'Lato, sans-serif'
     headings: 'Rozha One, cursive'
     code: 'Lato, cursive'
-  icon:
-    logo: material/memory
-  favicon: images/favicon.svg
+  #icon:
+    #logo: /images/Logo/LOGO3.png
+  favicon: images/Logo/LOGO (1).jpg
   features:
     - instant
     - navigation.expand
