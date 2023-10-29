@@ -55,6 +55,18 @@ theme:
     - navigation.top
     - navigation.tracking
     - toc.integrate
+    - instant
+    - navigation.expand
+    #- navigation.indexes
+    - navigation.instant
+    # - navigation.prune
+    # - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.top
+    - navigation.tracking
+    - toc.integrate
     
 
 plugins:
