@@ -2,6 +2,7 @@
 hide:
     - toc
 ---
+hey
 
 # Machine Paradox
 ### Reflection Week 1: What is inside a microwave?
