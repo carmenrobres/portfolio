@@ -2,9 +2,9 @@
 hide:
     - toc
 ---
-hey
 
 # Machine Paradox
+![](../images/MT01/POSTERMP (1).svg)
 ### Reflection Week 1: What is inside a microwave?
 This class began with the thrilling challenge of taking apart an old electronic device, which in our case was an Orbegozo MI 2115 Microwave. We initially thought it would be fun to dismantle it, but as we started, we realized how difficult and risky it was due to the AC circuits and the capacitor. Still, we had a great time taking it apart, testing, and documenting every single piece of the microwave. I was lucky to have patient classmates around me who explained how everything worked.
 
@@ -20,7 +20,6 @@ This week has inspired me to question how things work, and I'm eager to take apa
 During the last week, our team has been focused on creating an almost useful machine with a specific purpose: to cool down food using parts we salvaged from our previous microwave project. We started our work with careful planning, and then we printed and put together the machine's parts. We used  technologies like 3D printing and laser cutting prioritizing the refinement of intricate details within the machine rather than the complete structural overhaul. As our project progressed, we faced some challenges, such as issues with the quality of our prints because we only measured things once, leading to mistakes in the production process.
 
 To address these challenges, we made modifications to the machine's casings and added extra elements that made the machine more useless. This decision was influenced by the perception that the machine was too practical (as it could serve a legitimate need to cool down food), leading us to incorporate additional features to make it less functional. Consequently, we developed a system that allowed the machine to respond to specific actions, such as weight and movement. Once triggered, the machine would emit an annoying sound and cool down your food at the same time. To enhance users' understanding of the machine's functionality, we integrated printed designs and LED lights, making it more user-friendly. Our project culminated in the final assembly of the machine and the creation of a themed video inspired by Wes Anderson, emphasizing the contrast between the machine's potential to induce stress and its actual usefulness.
-
 
 
 <span style="background-color: #FFFCFA; padding: 10px; border: 1px solid #699ADA;">VIDEO LINK: The video can be seen in slide 13 of the presentation or you can also click [here](https://www.youtube.com/watch?v=ywK0w2E7nIE).</span>
@@ -41,4 +40,5 @@ This project has been a captivating journey, where the blend of enjoyment and le
 
 It has ignited in me a renewed enthusiasm and a desire to delve deeper into the world of machines and electronic components. I eagerly anticipate the chance to disassemble an old, unused phone, exploring its internal mechanisms and considering opportunities for recycling and reusing its components. While recycling is commonly discussed, the idea of repurposing electronic products is often overlooked. My deeper understanding of technology's inner workings has kindled a curiosity that compels me to ask more questions and explore my surroundings with heightened inquisitiveness. This project has not only been a source of inspiration but has also acted as a catalyst for ongoing learning and innovation in the field of technology.
 
-
+**Here are some videos from the two weeks of this seminar**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lnYTVPvwaN8?si=OT1BIv8c1T1U5eQK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
