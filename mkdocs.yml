@@ -40,14 +40,8 @@ theme:
     text: 'Lato, sans-serif'
     headings: 'Rozha One, cursive'
     code: 'Lato, cursive'
-<<<<<<< HEAD
   logo: images/Logo/LOGOH.svg
   favicon: images/Logo/LOGOU (3).svg
-=======
-  #icon:
-    #logo: /images/Logo/LOGO3.png
-  favicon: images/Logo/LOGO (1).jpg
->>>>>>> 10e6afe1244d2c54f637289a64917e218bee798a
   features:
     - instant
     - navigation.expand
