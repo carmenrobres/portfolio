@@ -5,7 +5,7 @@ hide:
 # Design Studio
 
 ## Reflection
-![](../../images/Designstydio/PROTOTYPING.svg){style: width="380", align=right}
+![](../images/Designstydio/PROTOTYPING.svg){style: width="380", align=right}
 This was my first design studio class, and it was fascinating to discuss the different roles of prototyping and reflect on my own experiences with it. As an industrial design engineer, I have primarily engaged in role 1 prototyping. Initially, I perceived a prototype as a preliminary version of a functional object. To me, prototyping often involves navigating through frustrations, time constraints, and the pursuit of perfection.
 
 After the seminar, I became interested in roles 2 and 3. Role 2 focuses on gathering information and exploring new ideas, rather than just creating functional objects. This type of prototyping involves learning and collaborating with others. On the other hand, role 3, to me, feels like art — a way to encourage people to think about our society and learn from it. I realized that when I draw, paint, or work with ceramics, I'm essentially creating prototypes that represent issues in our society.
@@ -30,7 +30,7 @@ In the end, I've realized just how important prototypes are in the whole process
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1646612775%3Fsecret_token%3Ds-JAGxgQKTqCD&color=%23699ada&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/carmen-80036726" title="Carmen" target="_blank" style="color: #cccccc; text-decoration: none;">Carmen</a> · <a href="https://soundcloud.com/carmen-80036726/prototype-explanation/s-JAGxgQKTqCD" title="Prototype explanation" target="_blank" style="color: #cccccc; text-decoration: none;">Prototype explanation</a></div>
 
 ## Rtd Tool box
-![](../../images/Designstydio/RTD.svg)
+![](../images/Designstydio/RTD.svg)
 
 
 
