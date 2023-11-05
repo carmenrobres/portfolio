@@ -22,13 +22,15 @@ The absence of my phone for 24 hours led to a day of silence, allowing me to imm
 
 However, I keenly felt the absence of the security my phone usually provided. Coordinating plans with friends became a challenge, and the inability to ensure their safety or promptly communicate potential delays triggered a sense of unease. **The absence of my phone constrained my sense of connection and peace, highlighting its significant role in maintaining a secure link with my surroundings. This experience prompted me to reevaluate my reliance on the phone for safety and connection and made me reflect on the reason why I felt the need to document myself and feel seen, rather than seeking other alternatives for entertainment.**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Ut9NRDSLkA?si=2p0R4CL9lQwMNg5e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Ways in which things could have been improved or changed:
 
 • If I had left my phone at home instead of carrying it with me all the time, my experience would have been entirely different. Having my phone with me provided a sense of security, knowing that I could use it in case of an emergency.
 
 • The fact of not having to document the experience would have left me without an activity for the day. Without the need to record myself, I would have had to find other forms of entertainment in my daily life.
 
-### Reflections:
+### Reflections
 **What happens when you use yourself as an instrument?**
  I gained a unique perspective that allowed for a deeper and more personal understanding of the subject. I was able to comprehend, document, and reflect on my own feelings and thoughts since I experienced them physically. This led to new ideas and questions about myself and my behavior without a phone, which wouldn't have emerged with other types of perspectives and research methods.
 
@@ -39,4 +41,3 @@ From now on, whenever I set out to research something, I'm going to start by tes
 
 **After seeing the videos of your design space collective, how does it change your understanding of it, present new opportunities or inspire new possibilities for collaboration?** I am interested in delving into my impulse to record myself in the absence of a phone and entertainment. Why did I feel safer on the subway when filming myself? Was it a desire to be noticed, to seek amusement, or to expose others? I am keen on further investigating the influence and human dependency of technology and Surveillance Capitalism, specifically examining how human behavior changes when individuals are aware of being filmed.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1Ut9NRDSLkA?si=2p0R4CL9lQwMNg5e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
