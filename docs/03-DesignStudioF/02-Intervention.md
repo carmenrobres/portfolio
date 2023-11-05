@@ -29,3 +29,7 @@ Personally, I enjoyed this activity, but I've realized as a designer that my goa
 Similarly, having reached this conclusion through this intervention, my question now is, **what is my main interest as a designer?** It's a challenging question to answer because I believe sustainability will always be at the heart of my work as a product designer. However, after starting this master's program, I've come to realize that my interests extend beyond just the product itself to my personal inclinations. One area I've yet to explore in my design space is my passion for food, which can also be tied to sustainability. I'm also keenly interested in mental health, equality, and technology. I feel a strong inclination towards exploring mental well-being and would like to delve deeper into this area. Moreover, to make the most of my master's degree and to contemplate mental health in the future, I aim to utilize today's technologies to enhance the field of psychology.
 
 Furthermore, **I want to focus on my identity and the identities of others, examining the implications of technology on a person's identity today. I am interested in understanding how this impacts our daily lives and how we have become reliant on technology. This decision has emerged from this intervention and a recent seminar that underscored my interest in exploring people's identities, their mental well-being, and their relationship with technology and dependency.**
+
+### My new Design Space
+
+![](../images/Designstydio/DesignSPace.svg)
