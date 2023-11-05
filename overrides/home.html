@@ -1,0 +1,87 @@
+{#-
+    This file was automatically generated - do not edit
+  -#}
+  {% extends "main.html" %}
+  
+  {% block tabs %}
+  {{ super() }}
+  <style>
+    /* Global Styles */
+    .md-header { position: initial }
+    .md-main__inner { margin: 0 }
+    .md-content { display: none }
+  
+    /* Responsive Sidebar */
+    @media screen and (min-width: 60em) {
+        .md-sidebar--secondary { display: none }
+    }
+  
+    @media screen and (min-width: 76.25em) {
+        .md-sidebar--primary { display: none }
+    }
+  </style>
+  
+  <section class="mdx-container">
+    <div class="md-typeset">
+      <style>
+        /* Hero Section Styles */
+        .mdx-hero {
+          margin-left: 0;
+          margin-right: 0;
+          max-width: auto;
+          position: relative;
+        }
+  
+        /* Responsive Adjustment for Small Screens */
+        @media screen and (max-width: 767px) {
+          .mdx-hero__content {
+            top: 50px; /* Adjust top margin for smaller screens */
+          }
+        }
+  
+        /* Hero Image Styles */
+        .mdx-hero__image {
+            width: 100%; /* Ensure the image takes up 100% of the container width */
+            height: 100vh; /* Set the height of the image to 100% of the viewport height */
+            background-size: cover; /* Ensure the background image covers the entire element */
+            background-position: center; /* Center the background image within the element */
+            position: relative;
+            overflow: hidden; /* Hide any overflowing content */
+        }
+        .mdx-hero__image img {
+          width: 100%; /* Ensure the image takes up 100% of the container width */
+          height: auto; /* Maintain aspect ratio */
+          display: block; /* Remove extra space below inline images */
+          object-fit: cover; /* Ensure the image covers the entire container, maintaining aspect ratio */
+        }
+        /* Default background image for desktop */
+        .mdx-hero__image {
+            background-image: url('https://media.discordapp.net/attachments/1169663559744114734/1169663604388274217/Desktop1_7.jpg?ex=6556391e&is=6543c41e&hm=40ba07394c273d2815aa5764abe1ded0b69584b1441331495097a72d444aa051&=&width=1327&height=575');
+        }
+  
+        /* Media query for mobile devices */
+        @media screen and (max-width: 767px) {
+            /* Mobile-only background image */
+            .mdx-hero__image {
+                background-image: url('https://media.discordapp.net/attachments/1169663559744114734/1169663876468580412/Desktop1_8.jpg?ex=6556395f&is=6543c45f&hm=ac62e018a363c13a08afc11862e871ad8c06ee2eaafb387155ed104de5f20988&=&width=363&height=575');
+                background-size: cover;
+                height: 100vh;
+                background-position: center;
+            }
+        /* Responsive Adjustment for Small Screens */
+            .mdx-hero__content {
+        top: 10px; /* Adjust top margin for smaller screens */
+        }    
+            
+    }
+      </style>
+  
+      <!-- Hero Section -->
+  <div class="mdx-hero">
+    <div class="mdx-hero__image">
+    </div>
+  </div>
+  {% endblock %}
+  
+  {% block content %}{% endblock %}
+  {% block footer %}{% endblock %}

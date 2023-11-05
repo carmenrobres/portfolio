@@ -30,6 +30,15 @@
   font-family: "<Merriweather>";
 }
 
+.md-nav--lifted > .md-nav__list > .md-nav__item--active > .md-nav__link {
+  background: var(#FFFCFA);
+  box-shadow: 0 0 0.4rem 0.4rem var(#ae5316);
+  margin-top: 0;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
 body {
     background-color: #FFFCFA;
 }
@@ -45,6 +54,7 @@ body {
   --md-accent-fg-color--light:            #699ADA;
   --md-accent-fg-color--transparent:      #699ADA;
 }
+
 
 .hide-scroll-bar {
     -ms-overflow-style: none;
