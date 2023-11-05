@@ -4,7 +4,7 @@ hide:
 
 # Design Studio
 
-## Reflection
+## Roles of Prototying
 ![](../images/Designstydio/PROTOTYPING.svg){style: width="380", align=right}
 This was my first design studio class, and it was fascinating to discuss the different roles of prototyping and reflect on my own experiences with it. As an industrial design engineer, I have primarily engaged in role 1 prototyping. Initially, I perceived a prototype as a preliminary version of a functional object. To me, prototyping often involves navigating through frustrations, time constraints, and the pursuit of perfection.
 
