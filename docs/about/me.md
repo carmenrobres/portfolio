@@ -5,7 +5,6 @@ hide:
 
 # About me
 ## A little too personal?
----
 ![](../images/Aboutme//ME (3).svg){align=right}
 I don't really know who I am, so I'm going to explain to you what I like. For me, the best experiences are those that engage all five senses; that's why one of my favorite things in this world is food. There are no great trips without experiencing the local cuisine, no gatherings with friends without good tapas, and undoubtedly, no movies without popcorn. I love discovering new places to explore different flavors and cuisines. Besides food, I'm a wine and coffee enthusiast. I'll never say no to either of those two drinks, but I will say no to beer.
 
