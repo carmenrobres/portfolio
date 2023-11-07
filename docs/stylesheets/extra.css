@@ -86,3 +86,6 @@ body {
     font-size: 14px;
 }
 
+.md-highlight md-highlight  { 
+  background-color: #699ADA; 
+}
