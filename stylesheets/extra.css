@@ -8,12 +8,14 @@
   --mdc-typography-headline1-font-family: 'Rozha One', serif;
   --mdc-typography-font-family: 'Be Vietnam', sans-serif;
   --md-typeset-a-color: #E17858; /*this changes the colour of the bottom footer, where the copyright and icons sit*/
+  --md-typeset-mark-color: #001eff80;
 }
 
 .md-typeset h1 {
   color: #244C43;
   font-family: "<Merriweather>";
   /*margin-bottom: 10px;  Adjust the value as needed */
+  margin: 0 0 -0.75em;
 }
 
 .md-typeset h2 {
@@ -32,8 +34,8 @@
 }
 
 .md-nav--lifted > .md-nav__list > .md-nav__item--active > .md-nav__link {
-  background: var(#FFFCFA);
-  box-shadow: 0 0 0.4rem 0.4rem var(#ae5316);
+  background: #FFFCFA;
+  box-shadow: none;
   margin-top: 0;
   position: sticky;
   top: 0;
