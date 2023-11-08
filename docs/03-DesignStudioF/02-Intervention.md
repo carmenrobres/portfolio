@@ -3,6 +3,7 @@ hide:
 
 
 # Design Intervention
+<div style="height:2px; background-color: #E17858; margin-top: 40px; margin-bottom: -20px;"></div>
 
 ## Collective Design Space activity
 The group Design Space was somewhat chaotic. Although many of us shared an interest in repurposing waste and agreed that waste doesn't necessarily mean something worthless, our understanding of materials and waste was quite disorganized. We all acknowledged the need for a mindset shift towards recycling at home, and recognized the lack of awareness about waste management practices. We especially pondered the stark contrast in the availability of recycling bins in Barcelona compared to other European countries. Additionally, we emphasized the value and potential reuse of waste materials, sparking discussions about alternative material applications.

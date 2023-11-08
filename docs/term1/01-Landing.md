@@ -4,6 +4,8 @@ hide:
 ---
 
 # Landing
+<div style="height:2px; background-color: #E17858; margin-top: 40px; margin-bottom: -20px;"></div>
+
 ### Reflection
 ![](../images/Landing/procrast.svg){align=right}
 As I step into this new phase of my education and career journey, I can't help but feel excited about the fresh changes and opportunities ahead. Every day, I'm gaining a lot of new knowledge, which reminds me why I decided to pursue this master's degree in the first place. Meeting fellow students and educators this week has been truly inspiring, and I believe we're all set for an enriching journey where we'll learn and grow together as a class and comunity.

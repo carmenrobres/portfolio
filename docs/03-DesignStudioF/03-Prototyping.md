@@ -3,6 +3,7 @@ hide:
 
 
 # Design Studio
+<div style="height:2px; background-color: #E17858; margin-top: 40px; margin-bottom: -20px;"></div>
 
 ## Roles of Prototying
 ![](../images/Designstydio/PROTOTYPING.svg){style: width="380", align=right}

@@ -4,6 +4,8 @@ hide:
 ---
 
 # Living With Your Own Ideas
+<div style="height:2px; background-color: #E17858; margin-top: 40px; margin-bottom: -20px;"></div>
+
 ## My companion: Adrift from independence
 ![](../images/LOI/barco.svg){align=right}
 For this project, we were asked to create a model that represented a specific feeling or theme. In this case, I chose the feeling of independence because I relate it to my experience of living alone for a long time, away from my family. Although I sometimes consider myself an independent person, I also rely heavily on the people around me and my friends. For example, when I am sick, I need someone to come to my house to take care of me.
