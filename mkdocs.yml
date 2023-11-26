@@ -13,14 +13,17 @@ nav:
   - About Me: about/me.md
   - Design Studio: 
       - Roles of Prototyping: 03-DesignStudioF/03-Prototyping.md
-      - Design Intervention: 03-DesignStudioF/02-Intervention.md
+      - First Intervention: 03-DesignStudioF/02-Intervention.md
+      - Second Intervention: 03-DesignStudioF/04-Intervention2.md
   - Term 1:
       - Landing: term1/01-Landing.md
       - Documenting Design: term1/02-DocumentingDesign.md
       - AoWS: term1/04-AtlasofWeakSignals.md
       - Machine Paradox: term1/05-MachineParadox.md
       - Living With Your Own Ideas: term1/06-LivingIdeas.md
-      - Bio & Agri Zero: term1/07-BioAgriLab.md
+      - Biology Zero: term1/07-BioLab.md
+      - Agriculture Zero: term1/08-AgriLab.md
+      - Design with Others: term1/09-DesignOther.md
 
 
 

@@ -35,7 +35,7 @@ To address these challenges, we made modifications to the machine's casings and 
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFyKLcy7Vs&#x2F;view?utm_content=DAFyKLcy7Vs&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Anxious Air</a> de Manuja
 
-### Reflection: Learning Goals and Applications
+### Learning Goals and Applications
 Initially, **transforming a previously functional machine into an almost useful one might appear futile. Yet, it has encouraged me to adopt a more comprehensive outlook.** It not only urges me to question the reasons behind a machine's breakdown but also prompts me to contemplate the entire life cycle of technology. Can we uncover value in what others regard as mere waste? This process has fundamentally altered my view of technology, demonstrating how a discarded machine can be salvaged, repurposed, and transformed into something fresh and purposeful, rather than just contributing to the ever-growing pile of discarded items.
 
 This project has been a captivating journey, where the blend of enjoyment and learning has played a crucial role. The creation of the machine, though not entirely functional, has sparked my intuition and drive for perfection, serving as a thrilling learning experience. Collaborating with my peers, engaging in stimulating discussions, and collectively devising effective strategies has been an invaluable experience. The inclusive nature of our teamwork was particularly invigorating, with each member making significant contributions to the project's success.
