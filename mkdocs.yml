@@ -73,7 +73,7 @@ theme:
     - navigation.indexes
     - navigation.top
     - navigation.tracking
-    - toc.integrate
+    #- toc.integrate
     
 
 plugins:
