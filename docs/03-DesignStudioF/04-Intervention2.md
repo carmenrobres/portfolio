@@ -1,6 +1,6 @@
 hide:
     - toc
-# Second intervention
+# Second Intervention
 <div style="height:2px; background-color: #E17858; margin-top: 40px; margin-bottom: -20px;"></div>
 
 ## What, so what, now what? from my first intervention
@@ -42,7 +42,7 @@ In retrospect, there are a few things I would have done differently in this proj
 Nevertheless, I really enjoyed this project, and I believe both we and our classmates had a good time. It proved to be a valuable exercise, as everyone appreciated gaining insights into how others perceive them based on their social media profiles. Many were intrigued to view their Instagram profiles from different perspectives. Some even expressed uncertainty about whether they truly reflected certain characteristics, prompting them to revisit their own profiles for self-reflection. **This fun exercise has sparked my interest in expanding my research on the concept of identity and how we perceive ourselves.**
 
 ## NOW WHAT?
-![](../images/Designstydio/social_identity2.svg){style: width="380", align=right}
+![](../images/Designstydio/social_identity2.jpg){style: width="380", align=right}
 
 Reflecting on this exercise, while enjoyable, the reflective aspect didn't unfold as expected. People realized their Instagram profiles didn't precisely convey what they intended. Despite having a good time, we didn't draw as deep conclusions as anticipated. Social media has become a passive exercise ingrained in the need to express ourselves, with few truly reflecting on their Instagram presentations.
 
