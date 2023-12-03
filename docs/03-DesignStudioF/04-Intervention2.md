@@ -34,12 +34,26 @@ In order to make that happened we did the following steps:
 
 >7. We conducted interviews to ascertain whether individuals identified with the descriptions provided by our friends.
 
-VIDEO
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OIIXZlqX_4c?si=GkukhdTO6wV7FD9F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Reflection
+In retrospect, there are a few things I would have done differently in this project. For instance, we overlooked a question, specifically one about political opinions derived from Instagram accounts, which we found particularly interesting. I also believe we should have granted more freedom to our friends in their judgment. Instead of providing limited options for certain questions, such as the number of books they read, we should have allowed more subjective responses. This would have avoided generating similar profiles, making users appear less diverse. **It would have been better to let people judging these profiles respond with more subjective questions or give them the freedom to say what they wanted. For example, asking them to judge their interests, how they perceive that person, whether they think the person is cheerful, sad, energetic, calm, their zodiac sign, etc. This approach would have allowed for more creativity rather than creating rigid profiles.**
+
+Nevertheless, I really enjoyed this project, and I believe both we and our classmates had a good time. It proved to be a valuable exercise, as everyone appreciated gaining insights into how others perceive them based on their social media profiles. Many were intrigued to view their Instagram profiles from different perspectives. Some even expressed uncertainty about whether they truly reflected certain characteristics, prompting them to revisit their own profiles for self-reflection. **This fun exercise has sparked my interest in expanding my research on the concept of identity and how we perceive ourselves.**
 
 ## NOW WHAT?
+![](../images/Designstydio/social_identity2.svg){style: width="380", align=right}
 
-Social identity
+Reflecting on this exercise, while enjoyable, the reflective aspect didn't unfold as expected. People realized their Instagram profiles didn't precisely convey what they intended. Despite having a good time, we didn't draw as deep conclusions as anticipated. Social media has become a passive exercise ingrained in the need to express ourselves, with few truly reflecting on their Instagram presentations.
 
-## Updated Design Space
+The exercise intrigued individuals with Instagram accounts, sparking curiosity about how others perceive them. However, the desire for validation through social media profiles should be questioned. It would have been beneficial to reflect more on individuals' feelings, intentions, and whether their social media profiles truly represent them. We've grown accustomed to using these platforms as tools without questioning our motives.
+
+**While the exercise was good, it remained somewhat on the surface. The answer that people do not perceive us as we perceive ourselves on social media wasn't surprising. Now, the challenge is, "What do we do with this information?" What have I gained from this intervention? It's about more than just reflecting; it's delving deeper into understanding identity, social media, and entering the world of thoughtful contemplation on these topics.**
+
+This intervention marks my initial step into the new theme I want to explore in this master's program—identity, social identity, and notably, the intersection with mental health. I aim to delve beyond just discussing social media, althought it is important to our generation's identity.
+
+This week's exercise is a foundational exploration of who we are, how we perceive ourselves, and how we present ourselves to others. While I am uncertain about its direct impact on my future career, I see it as a crucial skill to cultivate—becoming a catalyst for reflection rather than a simple problem-solving designer. I'm eager to explore this further, particularly in a social context, to understand its broader societal implications.
+
+Moving forward, I want to delve into subjectivity because, ultimately, one's identity and mental health are deeply personal. This exercise is my initial foray into something greater. **Now that I understand how we present ourselves, I aim to reflect more on my own identity, its impact on others, and how it affects me. My main question going forward is how to involve communities, making them an integral part of this individual exploration.**
+
+

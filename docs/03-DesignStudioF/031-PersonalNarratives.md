@@ -17,7 +17,7 @@ I chose it because it reminds me of a personal time when I really needed comfort
 
 For the group exercise we gathered around the class as Laura initiated the activity by crafting a fennel stitch with a red thread in her hand. The task involved passing the thread among all of us, carefully weaving a network that mirrored our collective experiences and reflections on the master program over the past weeks. The outcome manifested as a unified web of red threads, symbolizing our interconnectedness and serving as a visual narrative of our shared journey in the master's program.
 
- > I took the freedom of taking the string and make a circular scarf out of it. In that way we will al collectively be together as a group and our narrative will be connected. The scarf is in our class, to keep anyone in the class warm if needed.
+ > I took the freedom of taking the string and make a circular scarf out of it. In that way we will all collectively be together as a group and our narrative will be connected. The scarf is in our class, to keep anyone in the class warm if needed.
 
 
 From the shared experiences we ended up writing a collective story about the narrative of the masters program.
