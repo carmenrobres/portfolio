@@ -2,72 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://carmenrobres.github.io/portfolio/</loc>
-         <lastmod>2023-11-28</lastmod>
+         <lastmod>2023-12-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://carmenrobres.github.io/portfolio/03-DesignStudioF/02-Intervention/</loc>
-         <lastmod>2023-11-28</lastmod>
+         <lastmod>2023-12-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://carmenrobres.github.io/portfolio/03-DesignStudioF/03-Prototyping/</loc>
-         <lastmod>2023-11-28</lastmod>
+         <lastmod>2023-12-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://carmenrobres.github.io/portfolio/03-DesignStudioF/031-PersonalNarratives/</loc>
+         <lastmod>2023-12-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://carmenrobres.github.io/portfolio/03-DesignStudioF/04-Intervention2/</loc>
-         <lastmod>2023-11-28</lastmod>
+         <lastmod>2023-12-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://carmenrobres.github.io/portfolio/about/me/</loc>
-         <lastmod>2023-11-28</lastmod>
+         <lastmod>2023-12-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://carmenrobres.github.io/portfolio/project/project/</loc>
-         <lastmod>2023-11-28</lastmod>
+         <lastmod>2023-12-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://carmenrobres.github.io/portfolio/term1/01-Landing/</loc>
-         <lastmod>2023-11-28</lastmod>
+         <lastmod>2023-12-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://carmenrobres.github.io/portfolio/term1/02-DocumentingDesign/</loc>
-         <lastmod>2023-11-28</lastmod>
+         <lastmod>2023-12-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://carmenrobres.github.io/portfolio/term1/04-AtlasofWeakSignals/</loc>
-         <lastmod>2023-11-28</lastmod>
+         <lastmod>2023-12-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://carmenrobres.github.io/portfolio/term1/05-MachineParadox/</loc>
-         <lastmod>2023-11-28</lastmod>
+         <lastmod>2023-12-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://carmenrobres.github.io/portfolio/term1/06-LivingIdeas/</loc>
-         <lastmod>2023-11-28</lastmod>
+         <lastmod>2023-12-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://carmenrobres.github.io/portfolio/term1/07-BioLab/</loc>
-         <lastmod>2023-11-28</lastmod>
+         <lastmod>2023-12-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://carmenrobres.github.io/portfolio/term1/08-AgriLab/</loc>
-         <lastmod>2023-11-28</lastmod>
+         <lastmod>2023-12-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://carmenrobres.github.io/portfolio/term1/09-DesignOther/</loc>
-         <lastmod>2023-11-28</lastmod>
+         <lastmod>2023-12-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
