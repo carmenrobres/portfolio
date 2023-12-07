@@ -46,11 +46,6 @@ This marks the culmination of our project up to this phase of the activity. We e
 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVNL6M8pY=/?moveToViewport=5068,-6378,22759,10475&embedId=481270919197" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
-### Conclusion of the project
-I think it's essential to focus more on the reflective aspects of this project rather than its execution. The timeframe for completing this project was limited to just a few weeks, which didn't allow us sufficient time to fully implement our planned activities. Additionally, having more theoretical knowledge, particularly on biodiversity, and establishing stronger connections with the planned communities would have been beneficial. It would have been valuable to learn more about their ongoing projects and explore potential solutions for promoting biodiversity in our society.
-
-In an ideal scenario, executing the plan would have provided us with a deeper understanding of additional solutions for enhancing biodiversity and insight into the limitations the community may face in generating such solutions. Despite the project being completed swiftly, it was executed with precision, and our objectives were well-defined. Consequently, the clarity of our project documentation could potentially empower another community to read, comprehend, and initiate similar activities.
-
 ## Reflection
 This seminar has helped me understand how to design for and with a community. It allowed me to perceive the city from a different perspective, viewing its issues and conflicts that we often overlook in our daily lives through different eyes. I also realized that creating solutions for a community involves engaging with and learning from that community. Contrary to the common approach where designers provide a solution, typically a product, to a community and then disengage, I've come to understand that this isn't necessarily the only way to solve a problem. Designing for a community means becoming an integral part of it, actively contributing to constant change, and not abandoning the community once the design phase is completed.
 
