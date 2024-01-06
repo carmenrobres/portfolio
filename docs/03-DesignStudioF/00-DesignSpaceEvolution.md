@@ -5,6 +5,9 @@ hide:
 # Design Space through the master
 <div style="height:2px; background-color: #E17858; margin-top: 40px; margin-bottom: -20px;"></div>
 
+### Design Space 4: January 6th
+![](../images/Designstydio/DesignSPace4.svg)
+
 ### Design Space 3: December 11th
 ![](../images/Designstydio/DesignSpace3.jpg)
 
