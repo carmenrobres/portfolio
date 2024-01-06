@@ -12,6 +12,7 @@ nav:
   - Home: index.md
   - About Me: about/me.md
   - Design Studio: 
+      - Design Space: 03-DesignStudioF/00-DesignSpaceEvolution.md
       - Roles of Prototyping: 03-DesignStudioF/03-Prototyping.md
       - First Intervention: 03-DesignStudioF/02-Intervention.md
       - Personal Narratives: 03-DesignStudioF/031-PersonalNarratives.md
