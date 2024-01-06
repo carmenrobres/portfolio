@@ -6,7 +6,7 @@ hide:
 <div style="height:2px; background-color: #E17858; margin-top: 40px; margin-bottom: -20px;"></div>
 
 ### Design Space 3: December 11th
-![](../images/Designstydio/DesignSpace3.svg)
+![](../images/Designstydio/DesignSpace3.jpg)
 
 ### Design Space 2: November 7th
 ![](../images/Designstydio/DesignSPace.svg)
