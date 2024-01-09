@@ -11,7 +11,10 @@ repo_url: 'https://github.com/carmenrobres/portfolio'
 nav:
   - Home: index.md
   - About Me: about/me.md
-  - Design Studio: 
+  - Design Studio:
+    - Term 2:
+     
+    - Term 1:
       - Design Space: 03-DesignStudioF/term1/00-DesignSpaceEvolution.md
       - Roles of Prototyping: 03-DesignStudioF/term1/03-Prototyping.md
       - First Intervention: 03-DesignStudioF/term1/02-Intervention.md
