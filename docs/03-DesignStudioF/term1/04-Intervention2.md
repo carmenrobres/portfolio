@@ -14,23 +14,23 @@ My interest shifted from the environmental focus to a fascination with the commu
 ## Design Intervention: Social Identity
 ### Our Intervention
 For the next intervention, I connected with Sophie and Nuria to explore our shared interests in social media and the online world, particularly examining their impact on our identities. This became our Collective Design Space: <br><br>
-![](../images/Designstydio/DESIGNSPACEi2.svg)
+![](../../images/Designstydio/DESIGNSPACEi2.svg)
 
 In this intervention, our primary goal was to prompt our classmates to engage in thoughtful introspection about their digital identity—considering both how they are currently perceived by others and how they aspire to be perceived. Given that our generation has grown up in a digital era, our online presence has become an integral part of our personal identity. We've become accustomed to presenting ourselves within the constraints of various platforms, often utilizing a combination of text and images. However, we posed a critical question: **Is our Instagram account, or any other digital representation, an authentic reflection of who we truly are?** To explore this, we collaborated with classmates, fostering a collective space where we encouraged them to reflect on their self-perception based on their online identity and the impressions that strangers made of them in the digital realm.
 
 In order to make that happened we did the following steps:
 > 1. We asked our classmates for permission to show their Instagram profiles to our friends.
 > 2. We created a survey with very specific and limited response questions in order to have the same model with everyone. The questions were such as: Identify this persons sexuality, origin, recycling habits, travelling habits and self-care practices. <br>
-![](../images/Designstydio/FOrms.png)
+![](../../images/Designstydio/FOrms.png)
 > 3. We shared the social media profiles and asked our friends to fill out forms about each profile. Each profile was looked at only one time, so each classmate only got one digital identity. Different friends of ours assisted in examining our classmates, so it's crucial to understand that every digital identity we created depends on their personal opinions. Each person had different criteria for determining what was important in identifying that person. <br>
-![](../images/Designstydio/4Profiles.gif)
+![](../../images/Designstydio/4Profiles.gif)
 
 > 4. We gathered information on the profiles and organized them into anonymous cards to prepare for the game.
 > 5. We invited our classmates to engage in a participatory exercise where they were prompted to associate themselves with one of the profiles exhibited on the wall. They were then requested to affix their respective photographs onto the corresponding profile card. This interactive initiative not only facilitated meaningful conversations regarding individual self-perceptions but also yielded valuable insights into how participants perceive themselves within the framework of our collaborative project. <br>
-![](../images/Designstydio/4Time Lapse.gif)
+![](../../images/Designstydio/4Time Lapse.gif)
 
 > 6. We then revealed the final solution  that matched each profile to its respective individual and documented their responses.<br>
-![](../images/Designstydio/BeforeAfter.jpg)
+![](../../images/Designstydio/BeforeAfter.jpg)
 
 >7. We conducted interviews to ascertain whether individuals identified with the descriptions provided by our friends.
 
@@ -42,7 +42,7 @@ In retrospect, there are a few things I would have done differently in this proj
 Nevertheless, I really enjoyed this project, and I believe both we and our classmates had a good time. It proved to be a valuable exercise, as everyone appreciated gaining insights into how others perceive them based on their social media profiles. Many were intrigued to view their Instagram profiles from different perspectives. Some even expressed uncertainty about whether they truly reflected certain characteristics, prompting them to revisit their own profiles for self-reflection. **This fun exercise has sparked my interest in expanding my research on the concept of identity and how we perceive ourselves.**
 
 ## NOW WHAT?
-![](../images/Designstydio/social_identity2.jpg){style: width="380", align=right}
+![](../../images/Designstydio/social_identity2.jpg){style: width="380", align=right}
 
 Reflecting on this exercise, while enjoyable, the reflective aspect didn't unfold as expected. People realized their Instagram profiles didn't precisely convey what they intended. Despite having a good time, we didn't draw as deep conclusions as anticipated. Social media has become a passive exercise ingrained in the need to express ourselves, with few truly reflecting on their Instagram presentations.
 
