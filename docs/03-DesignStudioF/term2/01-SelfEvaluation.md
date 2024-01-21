@@ -5,9 +5,7 @@ hide:
 # Re-iteration of DD I.
 <div style="height:2px; background-color: #E17858; margin-top: 40px; margin-bottom: -20px;"></div>
 
-**Term 2: Week 1**
-
-Sure thing! Here's a rephrased version in English with a C1 level language and an informal tone:
+## Term 2: Week 1
 
 In Design Dialogues, I tackled a project delving into mental health and Data Humanism. I really enjoyed exploring this aspect because it allowed me to express the everyday and essentially turn our lives into data. Digging into the mental health dynamics for others and society was also intriguing. However, the experience made me realize that while I'm genuinely interested in mental health, when I shared it with others, they came to me with their problems, putting me in an uncomfortable designer-as-a-helper position. I thought I'd prefer contributing more externally and subjectively—providing tools rather than being the guiding voice.
 
