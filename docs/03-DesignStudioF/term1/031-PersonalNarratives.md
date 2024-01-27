@@ -7,7 +7,7 @@ hide:
 
 ## Deliverable
 **Individual**
-![](../../images/Designstydio/SCARF.jpg){style: width="380", align=right}
+![](../../images/Term1/Designstydio/SCARF.jpg){style: width="380", align=right}
 
 The figure that a choose for a personal narrative was a ==blanket==.
 I chose it because it reminds me of a personal time when I really needed comfort, especially during my period. The blanket represents my strong desire for warmth and safety when I feel extra sensitive. I used this everyday object to show the close link between how I feel inside and the need for a safe and cozy space. The blanket becomes a symbol of comfort, like a retreat where I can find peace. In sharing my story through this metaphor, I wanted to highlight how our deepest feelings connect with simple things around us, things we might not always notice but that give us a sense of security and comfort.

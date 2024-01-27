@@ -6,7 +6,7 @@ hide:
 # Machine Paradox
 <div style="height:2px; background-color: #E17858; margin-top: 40px; margin-bottom: -40px;"></div>
 <br></br>
-![](../images/MT01/POSTERMP (1).svg)
+![](../images/Term1/MT01/POSTERMP (1).svg)
 ### Reflection Week 1: What is inside a microwave?
 This class began with the thrilling challenge of taking apart an old electronic device, which in our case was an Orbegozo MI 2115 Microwave. We initially thought it would be fun to dismantle it, but as we started, we realized how difficult and risky it was due to the AC circuits and the capacitor. Still, we had a great time taking it apart, testing, and documenting every single piece of the microwave. I was lucky to have patient classmates around me who explained how everything worked.
 

@@ -7,15 +7,15 @@ hide:
 
 <br></br>
 **Design Space 4: January 6th**
-![](../../images/Designstydio/DesignSPace4.svg)
+![](../../images/Term1/Designstydio/DesignSPace4.svg)
 
 **Design Space 3: December 11th**
-![](../../images/Designstydio/DesignSpace3.jpg)
+![](../../images/Term1/Designstydio/DesignSpace3.jpg)
 
 **Design Space 2: November 7th**
-![](../../images/Designstydio/DesignSPace.svg)
+![](../../images/Term1/Designstydio/DesignSPace.svg)
 
 **Design Space 1: October 11th**
-![](../../images/AoWS/FINAL2.jpg)
+![](../../images/Term1/AoWS/FINAL2.jpg)
 
 

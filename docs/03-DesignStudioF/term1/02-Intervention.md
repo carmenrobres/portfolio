@@ -15,7 +15,7 @@ Despite the complexities, engaging in the Design Space group was an enjoyable ex
 <iframe width="768" height="432" src="https://miro.com/app/embed/uXjVNZ6tXgw=/?pres=1&frameId=3458764567644256010&embedId=107239734492" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 ## Reflection of our group work
-![](../../images/Designstydio/designintervention.jpg){style: width="480", align=right}
+![](../../images/Term1/Designstydio/designintervention.jpg){style: width="480", align=right}
 At first, we were very excited about setting up a workshop that focused on finding new ways to reuse our domestic waste. We were especially interested in exploring how to make new things from organic materials. We started the project with a lot of enthusiasm but didn't look into the best ways to actually repurpose these materials or what others had already figured out. This meant we didn't realize there was an extensive reservoir of untapped knowledge and resources available on the subject of repurposing waste materials, be it organic or synthetic.
 
 When we tried to put this knowledge into practice, we ran into some unexpected problems. ot only did we struggle to enjoy the process, but we also realized that our approach lacked a comprehensive understanding of the broader implications of waste management and sustainable practices. This made us take a step back and rethink about what we originally wanted to achieve. We started to wonder if what we were doing was actually helping.
@@ -35,4 +35,4 @@ Furthermore, **I want to focus on my identity and the identities of others, exam
 
 ### My new Design Space
 
-![](../../images/Designstydio/DesignSPace.svg)
+![](../../images/Term1/Designstydio/DesignSPace.svg)

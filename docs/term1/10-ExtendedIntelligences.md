@@ -7,7 +7,7 @@ hide:
 <div style="height:2px; background-color: #E17858; margin-top: 40px; margin-bottom: -20px;"></div>
 
 ## Reflection
-![](../images/ai/AI.svg){align=right}
+![](../images/Term1/ai/AI.svg){align=right}
 
 From this seminar, I've gained valuable insights, especially since I've always been intrigued by artificial intelligence. Now, I have a better understanding of how it functions and how to generate it. I use AI daily, like ChatGPT, and view it not as a one-size-fits-all solution but as a tool enhancing creativity and task efficiency. Learning about its workings and underlying principles has been beneficial. I intend to incorporate this tool into my future endeavors, particularly in relation to mental health topics during my master's program.
 

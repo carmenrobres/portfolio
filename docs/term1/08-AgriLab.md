@@ -7,7 +7,7 @@ hide:
 <div style="height:2px; background-color: #E17858; margin-top: 40px; margin-bottom: -20px;"></div>
 
 ## Reflection
-![](../images/agri/AGRI.svg){style: width="470", align=right}
+![](../images/Term1/agri/AGRI.svg){style: width="470", align=right}
 **In reality, agriculture has never been a passion for me. I am one of those people who have even managed to kill a cactus, and I am clear that, in the event of an apocalypse, I would not survive due to my lack of skills to live off nature. However, this seminar has represented a valuable opportunity for me to acquire basic knowledge about agriculture, despite my lack of previous experience.**
 
 What impacted me most positively was the practical experience of creating our own garden, something I considered much more exciting compared to conventional theoretical classes. Although I was sick during the seminar, limiting my participation and theoretical learning, the visit to Valldaura was extraordinary. The community and the possibility of living outside the city appealed to me, even though I realize that I would not be able to commit to living in that way for a whole year. Reflecting on my theoretical knowledge in agriculture, I believe I do not like it as much because I have not experienced it firsthand in a community committed to that lifestyle. I consider that, if I were surrounded by people who value and want to learn more about agriculture, I could better appreciate and take advantage of the experience.
