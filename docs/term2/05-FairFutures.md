@@ -26,4 +26,6 @@ In summary, this seminar stimulated deep reflection on the application of emergi
 
 ## Reflection
 
-are we ready to trust technology more than reality?
+I really enjoyed this seminar because it was a different approach compared to our usual classroom seminars. We discussed a topic we hadn't explored much before, and I learned a lot about NFTs and blockchain. I never imagined I could use these technologies to promote a physical project in society. I gained a lot of knowledge, and what I took away from this seminar is the importance of promoting projects that are open to everyone. **While I may not use tokens and NFTs much in my thesis project on artificial intelligence, I am more interested in the concept of blockchain, creating projects accessible to all and fostering collaboration while being transparent and sharing knowledge in a decentralized way.**
+
+As my master's thesis focuses on mental health and identity in a future where technology will play a significant role, I may find it challenging to apply this knowledge. I question how sharing everything in the cloud aligns with our identity philosophically, as we are constantly under observation. Nevertheless, I enjoyed learning how to utilize such technologies to address societal issues and how to build communities in our technological world.
