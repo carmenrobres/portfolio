@@ -13,7 +13,7 @@ hide:
 ![](../../images/Term1/Designstydio/DesignSpace3.jpg)
 
 **Design Space 2: November 7th**
-![](../../images/Term1/Designstydio/DesignSPace.svg)
+![](../../images/Term1/Designstydio/DesignSPace.jpg)
 
 **Design Space 1: October 11th**
 ![](../../images/Term1/AoWS/FINAL2.jpg)
