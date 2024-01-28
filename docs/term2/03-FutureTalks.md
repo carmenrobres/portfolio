@@ -14,7 +14,7 @@ During this talk, I've had the opportunity to reflect on Distributed Design and 
 While it may be challenging to maintain sustainable consciousness, considering my project ultimately revolves around artificial intelligence technologies, I aim to prioritize humanism and equity concepts. Therefore, I aspire to pursue ethical and equitable innovation.
 
 ###  Reflections
-![](../images/term2\FutureTalks\Tree.png)
+![](../../images/term2\FutureTalks\Tree.png)
 
 **- What are the key takeaways from the activity?**
 During the presentation, we learned about the Distributed Design Platform called Reflection Tree. Essentially, it's a tool that helps you review your own projects and practices. I used this tool to evaluate a project I worked on in the first trimester, which was about digital identity and artificial intelligence. Clearly, this project was more about my personal exploration into AI and identity. I didn't expect it to impact society but rather to affect my own understanding and approach to the topic. Using this tool made me realize that my previous projects related to AI and identity have been quite self-centered and subjective. I may need to reconsider how I approach my projects. While it's challenging to connect AI to sustainability, I could strive to make my projects more open and collaborative. For instance, if I develop technology to enhance societal identity, it should be accessible to everyone. Additionally, discussions on mental health identity could involve collaboration with diverse communities and embrace regenerative practices and inclusion.
