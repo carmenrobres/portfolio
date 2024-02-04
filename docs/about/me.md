@@ -7,7 +7,7 @@ hide:
 <div style="height:2px; background-color: #E17858; margin-top: 40px; margin-bottom: -20px;"></div>
 
 ## A little too personal?
-![](../images/term1/Aboutme/ME (3).svg){align=right}
+![](../images/Term1/Aboutme/ME (3).svg){align=right}
 I don't really know who I am, so I'm going to explain to you what I like. For me, the best experiences are those that engage all five senses; that's why one of my favorite things in this world is food. There are no great trips without experiencing the local cuisine, no gatherings with friends without good tapas, and undoubtedly, no movies without popcorn. I love discovering new places to explore different flavors and cuisines. Besides food, I'm a wine and coffee enthusiast. I'll never say no to either of those two drinks, but I will say no to beer.
 
 I'm a frustrated artist in search of new hobbies; I paint, draw, work with ceramics, and now I've discovered my new obsession: knitting. Still, I keep making scarves because I haven't learned to do anything else yet :).
