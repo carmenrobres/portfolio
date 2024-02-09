@@ -19,7 +19,7 @@ hide:
 
 **Final Product**
 
-![](../../images\term2\Fabrication\FABRICATION2.jpg){style: width="800"}
+![](../../images\term2\Fabrication\FABRICATION2.jpg)
 
 **Short Video of the process**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0cLL_Nu7nfY?si=5yCwepf1wE0ZHRyy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
