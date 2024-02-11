@@ -74,18 +74,21 @@ hide:
 - Setting up the printer was challenging because it was not properly calibrated. It took three attempts before we realized the printing error, and after cleaning and recalibrating it, we managed to print.
 
 *Feelings:* 
- - Printing and troubleshooting the printer was an intriguing experience, especially because I had never attempted 3D printing independently before.
+
+- Printing and troubleshooting the printer was an intriguing experience, especially because I had never attempted 3D printing independently before.
 - The initial malfunction of the printer turned out to be a blessing in disguise, as it provided me with an opportunity to analyze and manage the issue effectively, leading to a resolution.
 - However, waiting for the mycelium to grow is somewhat frustrating, given the uncertainty about the accuracy and functionality of the mold we printed.
 - We are eager to determine if the finalized design is indeed suitable for creating a functional ashtray.
 
 *Findings:* 
+
 - My limited experience with 3D printing and Mycelium cultivation has been a significant learning curve throughout this project. I've gained valuable skills in the topic since they were previously unfamiliar to me.
 - I was unaware of the extensive time required for mycelium growth and the complexity involved in understanding its growth process.
 - Not only is growing mycelium demanding, but comprehending its growth and evolution entails a substantial amount of time and dedication, resources that were limited in this project.
 - I was surprised by the necessity of thoroughly disinfecting all materials used in the mycelium cultivation process.
 
 *Future:* 
+
 - In the future, I aim to experiment with creating mycelium using diverse materials, going beyond the standard recipe by incorporating elements such as ashes.
 - I'm interested in exploring the growth of mycelium, letting it expand naturally instead of restricting it to molds we've designed, and discovering its potential applications.
 - Additionally, I aspire to acquire skills in designing molds that can adapt to mycelium growth, enabling us to craft ashtrays that are more personalized, authentic, and innovative.
