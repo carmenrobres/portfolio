@@ -95,5 +95,3 @@ hide:
 
 <span style="background-color: #FFFCFA; padding: 10px; border: 1px solid #699ADA;"> [Fabrication files](https://cults3d.com/en/3d-model/home/drop-ashtray).</span>
 
-
-## MicroChallenge
