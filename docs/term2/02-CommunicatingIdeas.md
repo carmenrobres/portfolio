@@ -32,3 +32,11 @@ At this stage, I believe that stakeholders crucial to developing my project are 
 
 ## Class 2: 30th January
 
+
+### Visual Workspace
+<span style="background-color: #FFFCFA; padding: 10px; border: 1px solid #699ADA;"> Access our [Miro Board](
+https://miro.com/app/board/uXjVN59zC4M=/?utm_source=notification&utm_medium=email&utm_campaign=daily-updates&utm_content=go-to-board) to learn more about my Visual Workspace.</span>
+
+
+### Tandem Project: Personality
+
