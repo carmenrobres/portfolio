@@ -41,6 +41,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://carmenrobres.github.io/portfolio/03-DesignStudioF/term2/03-Intervention02/</loc>
+         <lastmod>2024-02-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://carmenrobres.github.io/portfolio/about/me/</loc>
          <lastmod>2024-02-20</lastmod>
          <changefreq>daily</changefreq>
@@ -122,6 +127,11 @@
     </url>
     <url>
          <loc>https://carmenrobres.github.io/portfolio/term2/06-Measuring/</loc>
+         <lastmod>2024-02-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://carmenrobres.github.io/portfolio/term2/07-Microchallenges/</loc>
          <lastmod>2024-02-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
