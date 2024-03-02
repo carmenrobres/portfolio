@@ -62,7 +62,10 @@ hide:
 
 **Final Product**
 
+After 3 weeks, we finally removed the mycelium from the mold. It had grown extensively and remained uninfected. While it did take on the desired shape, it didn't grow exactly as we intended. Perhaps if we had allowed it more time to grow, it would have taken on the intended shape with all the desired details.
+
 ![](../../images\term2\Fabrication\FABRICATION23D.jpg)
+
 
 ### Reflection: The four F’s of active reviewing
 
@@ -72,13 +75,14 @@ hide:
 - Creating the mycelium ashtray was time-consuming due to the need to disinfect all the materials, which took about 50 minutes.
 - Our initial plan to use ashes in the recipe couldn't be realized because we intended to collect the ashes on the same day, but it rained. Consequently, most of the ashtrays had wet ashes that formed a paste, which we decided not to use.
 - Setting up the printer was challenging because it was not properly calibrated. It took three attempts before we realized the printing error, and after cleaning and recalibrating it, we managed to print.
+- It took 3 weeks for the mycellium to grow.
 
 *Feelings:* 
 
 - Printing and troubleshooting the printer was an intriguing experience, especially because I had never attempted 3D printing independently before.
 - The initial malfunction of the printer turned out to be a blessing in disguise, as it provided me with an opportunity to analyze and manage the issue effectively, leading to a resolution.
 - However, waiting for the mycelium to grow is somewhat frustrating, given the uncertainty about the accuracy and functionality of the mold we printed.
-- We are eager to determine if the finalized design is indeed suitable for creating a functional ashtray.
+- The finalized design is not suitable as a functional ashtray since it is too small.
 
 *Findings:* 
 
