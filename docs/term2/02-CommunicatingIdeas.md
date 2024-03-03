@@ -6,7 +6,7 @@ hide:
 # Communicating Ideas
 <div style="height:2px; background-color: #E17858; margin-top: 40px; margin-bottom: -20px;"></div>
 
-## Class 1: 16th January
+## Class 16th January: Storytelling
 
 ### Golden Circle
 **Why:**
@@ -30,7 +30,7 @@ At this stage, I believe that stakeholders crucial to developing my project are 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WW_Zc2-5V5c?si=fnvjgiygDeBxUMSa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-## Class 2: 30th January
+## Class 30th January: Brand Persona
 
 
 ### Visual Workspace
@@ -40,3 +40,12 @@ https://miro.com/app/board/uXjVN59zC4M=/?utm_source=notification&utm_medium=emai
 
 ### Tandem Project: Personality
 
+
+## Class 13th February: Transmedia Storytelling
+### My audience
+### Reflection
+
+
+## Final Learnings from the class
+
+## Tandem Project: How to document
