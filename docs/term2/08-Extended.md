@@ -7,6 +7,8 @@ hide:
 <div style="height:2px; background-color: #E17858; margin-top: 40px; margin-bottom: -20px;"></div>
 
 ## Project: Group 5
+
+![](../../images\term2\Extended\c4f23bfe-6a04-40db-bc76-b0abb7d20c78.jpg){style: width="480", align=right}
 ### Dot-Tod Camera
 Regarding the Dot-Tod Camera web, we found it fascinating to explore how artificial intelligence struggles to grasp the concept of trash. Instead of simply replicating and redesigning the trash image in various ways, it consistently reassessed the trash and transformed it into a functional object. Moreover, providing additional context to implicit images proved challenging. For instance, after feeding it the robotic arm image, it could only generate designs related to robotic arms, making it difficult to broaden its understanding without significantly expanding the prompt.
 
@@ -38,5 +40,5 @@ Furthermore, I found the explanations about the "monster" of Artificial Intellig
 
 The tools provided to us were exceptional and completely dispelled our fear of experimenting with Artificial Intelligence in our projects. I am absolutely convinced that I will use them in the future. 
 
-In conclusion, I believe this course has made me reflect on the fact that while Artificial Intelligence is a tool we should utilize, we shouldn't blindly trust it 100%. The people developing these tools aren't creating them flawlessly from scratch; rather, they're continually patching holes. Therefore, we need to remain critical and address their biases. Nonetheless, I am confident that from this course, I can develop many projects, especially with the ModMatrix tool, as it integrates numerous ideas and allows us to develop a more comprehensive project. Essentially, this course has equipped me with a foundation and understanding of these tools and what I can achieve with them. Undoubtedly, it's the beginning of a new project where I can use the elements provided by Pietro and Cris for my thesis projects.
+**In conclusion, I believe this course has made me reflect on the fact that while Artificial Intelligence is a tool we should utilize, we shouldn't blindly trust it 100%. The people developing these tools aren't creating them flawlessly from scratch; rather, they're continually patching holes. Therefore, we need to remain critical and address their biases. Nonetheless, I am confident that from this course, I can develop many projects, especially with the ModMatrix tool, as it integrates numerous ideas and allows us to develop a more comprehensive project. Essentially, this course has equipped me with a foundation and understanding of these tools and what I can achieve with them. Undoubtedly, it's the beginning of a new project where I can use the elements provided by Pietro and Cris for my thesis projects.**
 
