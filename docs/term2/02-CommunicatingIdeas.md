@@ -6,7 +6,7 @@ hide:
 # Communicating Ideas
 <div style="height:2px; background-color: #E17858; margin-top: 40px; margin-bottom: -20px;"></div>
 
-## Class 16th January: Storytelling
+## S1: Storytelling
 
 ### Golden Circle
 **Why:**
@@ -30,7 +30,7 @@ At this stage, I believe that stakeholders crucial to developing my project are 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WW_Zc2-5V5c?si=fnvjgiygDeBxUMSa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-## Class 30th January: Brand Persona
+## S2: Brand Persona
 
 ### Visual Workspace
 During this course, we were introduced to a stakeholders radar tool, which allowed us to fill out a series of exercises based on the stakeholders identified in the previous class, in order to assess the tone, voice, and vision of my project. This tool is typically used for businesses to define the tone and communication strategy, in this case, the assignment required us to apply it to our project. It was a challenging task because these tools are primarily designed to determine the tone for selling a company, whereas my project aims to provoke reflection rather than simply sell a product or service. Therefore, translating this reflective tone into a tool primarily geared towards sales and marketing communication proved to be difficult. Here is a link where you can find all the tools provided, but from now on, I will provide further detail and develop some of them.
@@ -72,14 +72,14 @@ Similarly, if I had to choose a specific archetype, I would opt for the Innocent
 ![](../../images\term2\CommunicatingIdeas\Archetypes.png)
 
 
-## Class 13th February: Transmedia Storytelling
+## S3: Transmedia Storytelling
 ### My audience
 
 ![](../../images\term2\CommunicatingIdeas\Media.png)
 
 ### Reflection
 
-## Class 27th February: Last Class
+## S4: Last Class
 ### Summary of my project
 
 
