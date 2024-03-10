@@ -74,16 +74,25 @@ Similarly, if I had to choose a specific archetype, I would opt for the Innocent
 
 ## S3: Transmedia Storytelling
 ### My audience
+When considering four target audiences to communicate this project, the first and most straightforward group would be the academic community. Given its innovative nature and technological requirements, it naturally aligns with academic research and thesis projects. However, effectively communicating with academics presents a challenge, as it's all too easy to drown in complex terminology and abstract ideas. Nevertheless, the objective remains clear: to prompt individuals to critically evaluate the ethics of technology within their research endeavors and to inspire responsible and ethical knowledge creation.
+
+Furthermore, engaging with the technology industry, which is already focused on projects to enhance mental health, is paramount. While this sector may prioritize technological advancements over ethical considerations, the goal is to instill a renewed emphasis on ethical principles and responsible innovation. Ultimately, the aim is to forge a future where technology serves humanity as a whole, transcending individual interests.
+
+Moreover, reaching out to the healthcare community, particularly within mental health, is essential. Although this group may encounter challenges in integrating technology due to its subjective nature, there lies an opportunity to encourage its adoption as a means of improving mental health outcomes. It's imperative for the psychology community to embrace technology as a tool for fostering individual well-being.
+
+Lastly, targeting the general public, particularly the younger generation, is crucial. While the concept of transhumanism remains relatively obscure, Generation Z, having grown up in the digital age, harbors deep concerns about mental health. Thus, this project serves as a catalyst for reflection, motivating individuals to envision and create technology that not only enhances mental health but also fosters stronger community bonds.
+
+**The overarching message is clear: to inspire each of these communities to envision a future where technology and ethics intersect to uplift mental health and well-being for individuals and society at large.**
 
 ![](../../images\term2\CommunicatingIdeas\Media.png)
 
-### Reflection
 
 ## S4: Last Class
 ### Summary of my project
 
 
 
-## Final Learnings from the class
+## Final Learnings
 
-## Tandem Project: How to document
+## Tandem Project: 
+### How to document
