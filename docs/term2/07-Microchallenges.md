@@ -43,8 +43,6 @@ For this week, we decided to combine two projects that had originated from the f
 <span style="background-color: #FFFCFA; padding: 10px; border: 1px solid #699ADA;"> [Check out the repository](https://github.com/annafedele/microchallenge-II).</span>
 
 ### Reflection
-For me, this microchallenge felt less intense because I think we were more practical in deciding what we wanted to do. Initially, I wanted to work on the microchallenge alone and experiment with using artificial intelligence with anxiety necklaces. My idea was to add a camera to the ESP 32XIAO so that whenever the anxiety necklace was activated, it would take a photo. Then, an AI would interpret the image and generate audio to help calm the wearer.
-
 ![](../../images\term2\Microchallenge\micro.png){style: width="480", align=left}
 
 For me, this microchallenge felt less intense because I think we were more practical in deciding what we wanted to do. Initially, I wanted to work on the microchallenge alone and experiment with using artificial intelligence with anxiety necklaces. My idea was to add a camera to the ESP 32XIAO so that whenever the anxiety necklace was activated, it would take a photo. Then, an AI would interpret the image and generate audio to help calm the wearer.
