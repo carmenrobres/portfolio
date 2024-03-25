@@ -45,13 +45,10 @@ For this week, we decided to combine two projects that had originated from the f
 ### Reflection
 For me, this microchallenge felt less intense because I think we were more practical in deciding what we wanted to do. Initially, I wanted to work on the microchallenge alone and experiment with using artificial intelligence with anxiety necklaces. My idea was to add a camera to the ESP 32XIAO so that whenever the anxiety necklace was activated, it would take a photo. Then, an AI would interpret the image and generate audio to help calm the wearer.
 
-<<<<<<< HEAD
 ![](../../images\term2\Microchallenge\micro.png){style: width="480", align=left}
 
 For me, this microchallenge felt less intense because I think we were more practical in deciding what we wanted to do. Initially, I wanted to work on the microchallenge alone and experiment with using artificial intelligence with anxiety necklaces. My idea was to add a camera to the ESP 32XIAO so that whenever the anxiety necklace was activated, it would take a photo. Then, an AI would interpret the image and generate audio to help calm the wearer.
 
-=======
->>>>>>> 26dec53a495cfea8466778cbf0203501e5c62f0c
 However, since the project required group work, I teamed up with Anna. Together, we created a simple task—a graphical representation using intelligence and technology. Both projects focused on health, and we both agreed on representing the invisible, making our collaboration logical.
 
 While we organized ourselves well, we may have lacked ambition in pushing boundaries further. We spent too much time on automating the process instead of exploring additional ideas or creating a greater impact. Personally, I've learned a lot about coding and Python through this microchallenge, and I plan to apply these skills to enhance my own thesis project. I aim to expand the necklace project by incorporating artificial intelligence.
