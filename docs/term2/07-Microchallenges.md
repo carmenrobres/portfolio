@@ -34,9 +34,22 @@ Despite the intensity of the week-long project, the experience was incredibly re
 
 
 ## MC2: Representation of Our Health
+> 4th March - 8 March
 
+> Anna Fedele and Carmen Robres
 ### Repository
+For this week, we decided to combine two projects that had originated from the first microchallenge, where Ana had a representation of abuse throught tech devices, and I had the anxiety necklaces that I explained in the first microchallenge. Essentially, what we did was, in order to join forces, we wanted to create a graphic representation of what health is, specifically mental health regarding anxiety, and physical health regarding abuse. Our research on understanding and making devices that could collect data and reprocess it in order to create an artistic artifact that is a mapping of these.
 
+<span style="background-color: #FFFCFA; padding: 10px; border: 1px solid #699ADA;"> [Check out the repository](https://github.com/annafedele/microchallenge-II).</span>
 
 ### Reflection
 
+![](../../images\term2\Microchallenge\micro.png){style: width="480", align=left}
+
+For me, this microchallenge felt less intense because I think we were more practical in deciding what we wanted to do. Initially, I wanted to work on the microchallenge alone and experiment with using artificial intelligence with anxiety necklaces. My idea was to add a camera to the ESP 32XIAO so that whenever the anxiety necklace was activated, it would take a photo. Then, an AI would interpret the image and generate audio to help calm the wearer.
+
+However, since the project required group work, I teamed up with Anna. Together, we created a simple task—a graphical representation using intelligence and technology. Both projects focused on health, and we both agreed on representing the invisible, making our collaboration logical.
+
+While we organized ourselves well, we may have lacked ambition in pushing boundaries further. We spent too much time on automating the process instead of exploring additional ideas or creating a greater impact. Personally, I've learned a lot about coding and Python through this microchallenge, and I plan to apply these skills to enhance my own thesis project. I aim to expand the necklace project by incorporating artificial intelligence.
+
+Having already programmed the Raspberry Pi and MQTT, I can focus on extending my thesis. Additionally, I believe graphical representation is an effective way to communicate these concepts to society and spark reflection.
