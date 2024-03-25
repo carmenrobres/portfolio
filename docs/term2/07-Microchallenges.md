@@ -51,8 +51,4 @@ However, since the project required group work, I teamed up with Anna. Together,
 
 While we organized ourselves well, we may have lacked ambition in pushing boundaries further. We spent too much time on automating the process instead of exploring additional ideas or creating a greater impact. Personally, I've learned a lot about coding and Python through this microchallenge, and I plan to apply these skills to enhance my own thesis project. I aim to expand the necklace project by incorporating artificial intelligence.
 
-<<<<<<< HEAD
 Having already programmed the Raspberry Pi and MQTT, I can focus on extending my thesis. Additionally, I believe graphical representation is an effective way to communicate these concepts to society and spark reflection.
-=======
-Having already programmed the Raspberry Pi and MQTT, I can focus on extending my thesis. Additionally, I believe graphical representation is an effective way to communicate these concepts to society and spark reflection.
->>>>>>> 26dec53a495cfea8466778cbf0203501e5c62f0c
