@@ -20,7 +20,3 @@ I am still reflecting on my Design Space... I need to read more and explore. For
 
 For now this is my DesignSpace before reading all the articles suggested on the Dialogues:
 ![](../../images/term2/DesignStudio/DesignSpace5.jpg)
-
-### Documentation of Term 2
-Here you can see a very small portion of my interventions during Term 2! I promise I will go back to document and film everything again :)
-
