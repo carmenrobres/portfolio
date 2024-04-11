@@ -1,0 +1,39 @@
+# First Intervention: Data Privacy
+<div style="height:2px; background-color: #E17858; margin-top: 40px; margin-bottom: -20px;"></div>
+
+## Mapping my new research topic
+After the Design Dialogues and the Easter break, the focus shifted to the MDFest project for the remainder of the term. This realization initially caused some stress, **as I realized I didn't want to simply present an object aimed at addressing mental health. The exploration felt too subjective, and I lacked clarity on what the solution should entail or where I fit within the mental health concept.**
+
+Moreover, during the Design Dialogues, I noticed that although many people find mental health topics interesting and important, it's not a subject people readily discuss or confront directly. Therefore, my intervention this week involved reflecting on what I wanted to do based on my progress throughout the year. **I mapped out my trimester's advancements, identifying key objectives and themes from each intervention to ideate my potential MDEFest presentation.** I considered various experiences, products, and objects I could create if given an empty room.
+
+![](../../images/term3/DesginStudio/IMG_3577.JPEG){style: width="480", align=left}
+
+From this exercise, I brainstormed various ideas for MDF Fest, including a concept called the "data supermarket." While my focus this trimester centered on mental health, I found the topic complex and subjective, impacting both myself and those around me. Additionally, **I revisited the theme of data, sparked by insights from a book on transhumanism, which highlighted how we're becoming commodities traded as data by entities and companies.**
+
+Considering these insights, I pondered exploring the notion of being a product in a digital world. This led me to conceive the idea of a data supermarket for the MDEFest, where individuals become the products. To guide me in this journey, I mapped my progress and established a timeline, which included conducting an brainstorming session with **Saúl Baeza. This interview provided valuable insights and propelled me toward exploring this theme further to refine my final concept for MDEFest on data privacy and identity-tech reflections.**
+
+
+### Brainstorming With Saúl Baeza
+- **Initial Idea Presentation:** The purpose of my interview with Saúl was to share my concept without prior research. Saúl, a creative individual with extensive experience in exploring similar themes, offered guidance on my next steps and potential directions. The interview lasted approximately an hour and was recorded for reference.
+
+- **Key Insights and Advice:** Saúl emphasized the importance of monetizing my intervention for maximum impact. This involves incentivizing data sharing by promising monetary rewards to participants. Understanding the value and exchange mechanisms of data is crucial, along with identifying recognizable apps, such as those related to mental health, for targeted interventions.
+
+- **Hacking the System:** Saúl illustrated strategies for subverting algorithmic recommendations, such as creating diversified YouTube accounts to counter geographic bias in content suggestions. He also highlighted examples of individuals leveraging loopholes in apps like Glovo to manipulate algorithms. These insights underscored the need to approach data privacy issues as social problems, requiring an understanding of system dynamics rather than technical expertise.
+
+- **Key Takeaway:** Saúl's advice highlighted the importance of internal hacking and social awareness in addressing data privacy concerns. It's not just about coding skills but understanding the societal and communal roots of these issues to enact meaningful change. Developing a comprehensive understanding of data systems is crucial for effective intervention.
+
+![](../../images/term3/DesginStudio/Saul.jpg)
+
+### Ecosystem actors
+So far, my ecosystem actors have all been from the academic realm. **Now that I've just switched topics, I'm trying to find different communities that can help me co-create the intervention I'm envisioning.** Essentially, in my intervention, the only ecosystem actor involved so far has been Saúl, as he's the one who sparked the development of it. However, **I plan to collaborate with data protection companies, whether they are communities or private enterprises actively involved in data privacy.** I might also like to collaborate with companies involved in the policy aspect of data protection. Most importantly, the communities I want to engage with are those interacting with phones and technology elements that collect this data. Ultimately, **my priority now is to do some research and choose which application or interface I want to investigate, so I can then find the community using it and raise awareness about data usage and privacy.** Therefore, it's crucial for me to continue this brainstorming exchange with Saúl, identify the application I want to focus on, find the community interacting with it, and also discover data protection communities actively engaged in this fight and their strategies for raising awareness on this issue.
+
+
+### Goals & Next Steps
+My current objective is to pinpoint the exact niche where I want to position myself and explore my thesis. I believe I need to revisit all the foundational exercises I did during the first two trimesters, especially those related to communication, to assess how I position myself and what voice I want to have in this project. 
+Besides reflecting on not only how I will communicate this topic but also how I will expand upon it. **In other words, okay, I've changed the thesis topic, and from now on, I'll explore the concept of data and data privacy, but with what purpose? What is the goal? What would I like to ultimately discover or design?** Currently, my vision is only to create the data supermarket, but I would like to try creating small interventions prior to MDEFest to experiment with the concept of data privacy and to progress in figuring out what I will do in the second year of the master's program. 
+**I would like this exploration to also serve a purpose for the future, as I believe that what I'm doing now is social criticism, and while I think that's fine, I also think it lacks a need for improvement or attempting to generate solutions of some kind.** Nevertheless, I'm open to generating these solutions through the interventions I carry out and the communities I interact with. Therefore, in conclusion, what I want to do from now on is to determine exactly what this data privacy is that I want to explore, which apps I want to explore, how this interacts with my thesis, and then also map out how to carry out different interventions related to this theme and ultimately progress toward MDEFest. 
+
+In this case, I've created a small calendar that outlines what I'll do in the next month to develop the idea and then give myself a month to develop it further. I only have the theme now; I need to develop and live beyond it and also understand the implications for the future and how this can grow and help different communities.
+![](../../images/term3/DesginStudio/Calendar.png)
+
+### So what, Now what?

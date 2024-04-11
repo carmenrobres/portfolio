@@ -6,6 +6,9 @@ hide:
 <div style="height:2px; background-color: #E17858; margin-top: 40px; margin-bottom: -20px;"></div>
 
 <br></br>
+**Design Space 5: April 1st**
+![](../../images/term2/DesignStudio/DesignSpace5.jpg)
+
 **Design Space 4: January 6th**
 ![](../../images/Term1/Designstydio/DesignSPace4.svg)
 
