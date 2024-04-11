@@ -20,6 +20,9 @@ This journey provided a break from the constant focus on mental health improveme
 **Moving forward, I aim to further explore the concept of touch, which I did not fully delve into during the trip. Although it may not directly relate to nature, I intend to incorporate elements that instill peace and tranquility into my future projects. For instance, integrating natural scented candles or sounds reminiscent of water and birdsong can foster a sensory connection with nature, facilitating relaxation and detachment from urban life.**
 
 ## Deliverable
+In this project, we embarked on a hike and recorded various sounds along the way. We captured repetitive sounds with a musical quality, mainly water and birdsong. These recordings formed the basis for a song that would encapsulate our entire journey. The beginning of the song reflects the inception of our project, mirroring the ascent up the mountain—calm and steady. As we progressed, the music transitioned to a playful tone, echoing our interactions with the snow and the serene pause for lunch, where we paused to immerse ourselves in nature's symphony. Then, the melody shifted to reflect the more challenging phase of our hike, as we ascended further up the mountain, contending with increasingly adverse weather conditions. This segment of the song became more dynamic, mirroring the intensity of our uphill climb amidst the rain.
+
+
 Listen to the song Jorge and I created :)
 
 
