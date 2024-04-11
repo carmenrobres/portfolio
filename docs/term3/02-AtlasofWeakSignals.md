@@ -7,6 +7,7 @@ hide:
 <div style="height:2px; background-color: #E17858; margin-top: 40px; margin-bottom: -20px;"></div>
 
 ## Contents
+During this seminar, we attempted to create and design various weak signal cards. Let's recall that a weak signal is the detection of evidence of an emerging change within a continuous process of exploration in a specific environment. Therefore, these are discrete, often ambiguous, emerging, and incipient indicators that may herald a potential change or crisis. This seminar served to generate new cards on these weak signal themes for the future, offering novel perspectives.
 
 ### Activity 01
 In the initial exercise, we mapped out our current situation in the world, including our location, time, and date. Then, we brainstormed various ideas in the political, technological, geographical, biological, economic, and social realms. It was quite interesting to do this draft because we conducted a small brainstorming session of all the things we knew that could potentially be topics for the Atlas of Weak Signals. This preliminary phase was very fluid, as we all interact with various issues and topics in our daily lives. **Our goal initially was to try to maintain a positive outlook, avoiding just writing down negative and socially frustrating topics.** Instead, if we were going to create Weak Signals cards, they could be positive or neutral, not necessarily focusing solely on negative themes. Ultimately, we could envision futures that take into account positive aspects as well.
