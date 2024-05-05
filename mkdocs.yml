@@ -15,6 +15,7 @@ nav:
     - Design Space Evolution: 03-DesignStudioF/term1/00-DesignSpaceEvolution.md
     - Term 3:
       - Intervention 1: 03-DesignStudioF/term3/01-Intervention1.md
+      - Community: 03-DesignStudioF/term3/02-Community.md
     - Term 2:
       - Re-iteration of DD1: 03-DesignStudioF/term2/01-SelfEvaluation.md 
       - Ways of Drifting & Intervention: 03-DesignStudioF/term2/02-Intervention01.md 
@@ -49,6 +50,11 @@ nav:
   - Term 3:
       - Atlas of Weak Signals: term3/02-AtlasofWeakSignals.md
       - Future Talks: term3/01-FutureTalks.md
+      - Communicating Ideas: term3/03-COmmunicatingIdeas.md
+      - Curating MEDFestival: term3/04-MdeFestival.md
+      - Design Ethics: term3/05-DesignEthics.md
+      - Digital Prototyping: term3/06-DigitalPrototyping.md
+
   - Master Thesis:
       - Initial Idea: thesis/01-InitialIdea.md
       - Tandem Project: thesis/02-TandemProject.md
