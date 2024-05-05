@@ -29,10 +29,14 @@ The Apple Health app serves as a lens through which users perceive and engage wi
 
 ### Identify one or more relevant Human-Technology Relations
 
-*Embodiment* -  users integrate the app into their daily routines, incorporating it as an extension of their own bodily practices
-*Hermeneutic* - users interpret the data presented by the app to construct meanings about their health and lifestyle choices
+*Embodiment* -  users integrate the app into their daily routines, incorporating it as an extension of their own bodily practices.
+
+*Hermeneutic* - users interpret the data presented by the app to construct meanings about their health and lifestyle choices.
+
 *Alterity* - facilitating interactions between humans and technology, blurring the boundaries between self and device.
+
 *Background* - constantly reading your body, so it is there.
+
 *Cyborg* - no 
 
 ### Analyze the Mediation of Experience ethically
@@ -56,8 +60,7 @@ In society, the integration of the Apple Health app into daily life has both sho
 
 Politically, it raises concerns about data ownership, surveillance, and the role of corporations in shaping public health agendas. Over time, its widespread adoption could reshape norms around health management and influence policy decisions related to healthcare and technology.
 
-
-**Summarize three key points of you analysis and present**
+### Summarize three key points of you analysis and present
 
 The Apple Health app transforms the phenomenological experience of health and well-being, integrating into users' daily lives as an extension of their bodily awareness.
 It mediates human actions and perceptions by encouraging healthier behaviors and shaping interpretations of health data, blurring the boundaries between self and technology.
