@@ -22,7 +22,7 @@
       
       
       <link rel="icon" href="../../images/Logo/LOGOU (3).svg">
-      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-9.5.21">
+      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-9.5.22">
     
     
       
@@ -30,7 +30,7 @@
       
     
     
-      <link rel="stylesheet" href="../../assets/stylesheets/main.66ac8b77.min.css">
+      <link rel="stylesheet" href="../../assets/stylesheets/main.732c4fb1.min.css">
       
         
         <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
@@ -1744,15 +1744,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#soft-sensor_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Soft Sensor
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#process_2" class="md-nav__link">
     <span class="md-ellipsis">
       Process
@@ -1914,41 +1905,98 @@
 </blockquote>
 <h3 id="references">References<a class="headerlink" href="#references" title="Permanent link">&para;</a></h3>
 <h3 id="process">Process<a class="headerlink" href="#process" title="Permanent link">&para;</a></h3>
+<p><a class="glightbox" href="../../images\term3\Prototyping\PROCESS.jpg" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="../../images\term3\Prototyping\PROCESS.jpg" /></a> </p>
 <p><strong>Final Product</strong></p>
 <h3 id="reflection-the-four-fs-of-active-reviewing">Reflection: The four F’s of active reviewing<a class="headerlink" href="#reflection-the-four-fs-of-active-reviewing" title="Permanent link">&para;</a></h3>
 <p><em>Facts:</em> </p>
 <p><em>Feelings:</em> </p>
 <p><em>Findings:</em> </p>
 <p><em>Future:</em> </p>
-<p><span style="background-color: #FFFCFA; padding: 10px; border: 1px solid #699ADA;"> <a href="https://drive.google.com/drive/folders/1ePaPlaMClO6WwB8KC66vz0l6MqG6qOfN?usp=sharing">Fabrication files</a>.</span></p>
+<p>Facts: An objective account of what happened
+Feelings: The emotional reactions to the situation
+Findings: The concrete learning that you can take away from the situation
+Future: Structuring your learning such that you can use it in the future</p>
+<p><span style="background-color: #FFFCFA; padding: 10px; border: 1px solid #699ADA;"> <a href="https://drive.google.com/drive/folders/1NmSh28hcguX5nGBE1HpGVCuo5WYQRLI6?usp=drive_link">Fabrication files</a>.</span></p>
 <h2 id="sensing-wearables">Sensing &amp; Wearables<a class="headerlink" href="#sensing-wearables" title="Permanent link">&para;</a></h2>
 <blockquote>
 <p>Anna Fedele and Carmen Robres</p>
 </blockquote>
 <h3 id="references_1">References<a class="headerlink" href="#references_1" title="Permanent link">&para;</a></h3>
+<p>For this project, our goal was to experiment with different input methods, whether through textiles, the phone, or the camera. This prepared us for MDFest, which is essentially our project theme: playing with sensors and exploring how we can detect the body in various ways. Our reference was to create a sort of online call where, based on the detected emotions and movement, the camera feed would change color and sound according to how the person on the other end interacted with you.
+The inputs are supposed to be: Soft sensor, phone and face.</p>
+<p><a class="glightbox" href="../../images\term3\Prototyping\RefesM4.jpg" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="../../images\term3\Prototyping\RefesM4.jpg" /></a> </p>
 <h3 id="soft-sensor">Soft Sensor<a class="headerlink" href="#soft-sensor" title="Permanent link">&para;</a></h3>
+<p>We also created two types of textile sensors. One had a mesh design, allowing us to detect various pressure points across the fabric. The other, simpler one, colored red, detected pressure or its absence using an Arduino. Essentially, we developed these textiles in class and then programmed Arduino and Processing to receive and display the data accordingly.</p>
+<p><a class="glightbox" href="../../images\term3\Prototyping\SOFTM4.jpg" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="../../images\term3\Prototyping\SOFTM4.jpg" /></a> </p>
 <h3 id="process_1">Process<a class="headerlink" href="#process_1" title="Permanent link">&para;</a></h3>
+<p>Next, we took the three inputs and trained the Wekinator so that, in the following module, we could simply play with inputs 0, 1, or 2. Essentially, we aimed to train a model to detect when someone is angry, indicated by aggressive movements, when someone is happy, indicated by fluid movements, and when someone is confused, indicated by minimal movement. The third input is the soft sensor, which essentially allowed us to halt all subsequent inputs. In other words, face and phone tracking are of the same type, recognizing feelings and emotions, while the last one is simply a button we&rsquo;ll use to alter the inputs and outputs of Wekinator and Max8 in a different way.</p>
+<p><a class="glightbox" href="../../images\term3\Prototyping\FABRICATIONM4.jpg" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="../../images\term3\Prototyping\FABRICATIONM4.jpg" /></a> </p>
+<p><strong>Video of the training</strong></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D30XIrBqzps?si=DH1QLfwCDWyFmj_2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <p><strong>Final Product</strong></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KlrL4ZGIO6s?si=FO0AeRaU3HYV8eYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <h3 id="reflection-the-four-fs-of-active-reviewing_1">Reflection: The four F’s of active reviewing<a class="headerlink" href="#reflection-the-four-fs-of-active-reviewing_1" title="Permanent link">&para;</a></h3>
 <p><em>Facts:</em> </p>
+<ul>
+<li>Programming emotions was more complex than the soft sensor.</li>
+<li>Determining what constituted an angry movement compared to a happy one took more time, as the phone only captures X, Y, and Z inputs and does not define movement over time; it only defines positions.</li>
+<li>Wekinator is relatively simple to program, but the challenge lies in understanding which input to use and how to program it.</li>
+</ul>
 <p><em>Feelings:</em> </p>
+<ul>
+<li>It was quite interesting, especially since this is the topic of my thesis. I enjoyed exploring different ways to train and detect body movements and send messages through various devices without the need for MQTT.</li>
+</ul>
 <p><em>Findings:</em> </p>
+<ul>
+<li>I discovered how to create a soft sensor, which was something new to me.</li>
+<li>Detecting emotions over time is challenging because it involves analyzing frames and movements. </li>
+<li>Training a model on movement is complex since it detects an input per every frame. The position of a hand can be considered happy or angry because the overall detection is the movement not the frame.</li>
+<li>Creating a database is complex, especially for subjective aspects like emotions. </li>
+</ul>
 <p><em>Future:</em> </p>
-<p><span style="background-color: #FFFCFA; padding: 10px; border: 1px solid #699ADA;"> <a href="https://drive.google.com/drive/folders/1ePaPlaMClO6WwB8KC66vz0l6MqG6qOfN?usp=sharing">Fabrication files</a>.</span></p>
+<ul>
+<li>Improving the dataset. The model would need thorough training with different people, lighting conditions, camera orientations, and distances to ensure accuracy.</li>
+<li>Delving into more articles about different physical characteristics of emotions would be beneficial for accurate detection.</li>
+</ul>
+<p><span style="background-color: #FFFCFA; padding: 10px; border: 1px solid #699ADA;"> <a href="https://drive.google.com/drive/folders/1MikflwB34YotAWqRJw89eskvKkQK2kZk?usp=sharing">Wekinator and Arduino files</a>.</span></p>
 <h2 id="output-visuals">Output Visuals<a class="headerlink" href="#output-visuals" title="Permanent link">&para;</a></h2>
 <blockquote>
 <p>Anna Fedele and Carmen Robres</p>
 </blockquote>
 <h3 id="references_2">References<a class="headerlink" href="#references_2" title="Permanent link">&para;</a></h3>
-<h3 id="soft-sensor_1">Soft Sensor<a class="headerlink" href="#soft-sensor_1" title="Permanent link">&para;</a></h3>
+<p>The main objective is to alter the inputs through sound and video, attempting to manipulate the visuals to touch upon various aspects of the video recieved.</p>
+<p><a class="glightbox" href="../../images\term3\Prototyping\RefesM5.jpg" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="../../images\term3\Prototyping\RefesM5.jpg" /></a> </p>
 <h3 id="process_2">Process<a class="headerlink" href="#process_2" title="Permanent link">&para;</a></h3>
+<p><a class="glightbox" href="../../images\term3\Prototyping\FABRICATIONM5.jpg" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="../../images\term3\Prototyping\FABRICATIONM5.jpg" /></a> </p>
+<p>For this project, our task was to use the inputs we had programmed through Wekinator and produce the output. Since we aimed to alter the concept of a video call, we generated an audio message like, &ldquo;Hello, hello, can you hear me?&rdquo; and also the camera feed. Then, based on the movements and emotions we conveyed to our computer, the output of both the camera feed and audio would change. Ultimately, the soft sensor was used more to create a negative or pause effect on the camera feed. In other words, while emotions detected triggered changes in the image, the soft sensor served as a way to pause, switch, and create a negative of the camera feed.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Aez96EIRoJ4?si=kktfisGckZhYRVLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <p><strong>Final Product</strong></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C4JTLCt9FJ0?si=rMS3MqCw8D9c8jZ5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <h3 id="reflection-the-four-fs-of-active-reviewing_2">Reflection: The four F’s of active reviewing<a class="headerlink" href="#reflection-the-four-fs-of-active-reviewing_2" title="Permanent link">&para;</a></h3>
 <p><em>Facts:</em> </p>
+<ul>
+<li>Editing in Max was quite complex because, fundamentally, editing sound and image may seem easy, but you need to understand the factors interacting with both to know what to adjust.</li>
+<li>Receiving all these messages via OSC was relatively easy since there were only three outputs listened to from the same port.</li>
+</ul>
 <p><em>Feelings:</em> </p>
+<ul>
+<li>Experimenting with Max 8 was quite enjoyable, but it&rsquo;s indeed challenging to understand how the program works because we&rsquo;re unsure of its capabilities. </li>
+<li>Lacking musical knowledge makes it difficult to grasp audio editing and mixing concepts.</li>
+</ul>
 <p><em>Findings:</em> </p>
+<ul>
+<li>From now on, I&rsquo;ll be able to use Max to create better outputs, as my thesis revolves around presenting different aspects artistically. </li>
+<li>Max seems very suitable for creating artistic representations that are sensory, sound-based, or visual, allowing people to understand concepts like aggression and emotions through the program.</li>
+</ul>
 <p><em>Future:</em> </p>
-<p><span style="background-color: #FFFCFA; padding: 10px; border: 1px solid #699ADA;"> <a href="https://drive.google.com/drive/folders/1ePaPlaMClO6WwB8KC66vz0l6MqG6qOfN?usp=sharing">Fabrication files</a>.</span></p>
+<ul>
+<li>I would also like to complete the cycle by not only receiving inputs and generating generic outputs but also sending messages from Max to other devices for a more personalized understanding of the programming.</li>
+</ul>
+<p><span style="background-color: #FFFCFA; padding: 10px; border: 1px solid #699ADA;"> <a href="https://drive.google.com/drive/folders/1tu5ag2uHh_FHIjiZ3CIBKoR3howRwg7L?usp=sharing">Max8 files</a>.</span></p>
 
 
 
@@ -1969,7 +2017,7 @@
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">May 5, 2024</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">May 13, 2024</span>
   </span>
 
     
@@ -2068,8 +2116,10 @@
     <script id="__config" type="application/json">{"base": "../..", "features": ["instant", "navigation.expand", "navigation.instant", "navigation.tabs", "navigation.tabs.sticky", "navigation.indexes", "navigation.top", "navigation.tracking", "toc.integrate", "instant", "navigation.expand", "navigation.instant", "navigation.tabs", "navigation.tabs.sticky", "navigation.indexes", "navigation.top", "navigation.tracking"], "search": "../../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
     
     
-      <script src="../../assets/javascripts/bundle.a7c05c9e.min.js"></script>
+      <script src="../../assets/javascripts/bundle.5cfa9459.min.js"></script>
       
     
-  <script>document$.subscribe(() => {const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});})</script></body>
+  <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(() => { lightbox.reload() });
+</script></body>
 </html>
