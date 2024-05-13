@@ -15,6 +15,17 @@ I found it enlightening to explore the role of technology, especially as I envis
 
 **Overall, this seminar provided a solid foundation in technology ethics, which will inform my ongoing exploration of identity, technology, and privacy in a world of pervasive surveillance. Balancing the benefits gained from technology with the loss of privacy incurred by sharing our data remains a complex issue that I will continue to delve into throughout my master's studies.**
 
+## Learning Outcomes
+**Self-Assessment: 8.5**
+
+These are the key takeaways from the class that I want to explore further:
+
+>Philosophy of Technology: Understanding how technology reflects societal values and beliefs, and its implications.
+
+> Ethics in Design: Exploring the ethical considerations in design, especially how design influences behavior and societal norms.
+
+> Regulation of AI: Delving deeper into the ethical and practical aspects of regulating AI, including fairness, consequences, and the broader societal impacts.
+
 
 ## Ethical Implications of Apple Health App
 
