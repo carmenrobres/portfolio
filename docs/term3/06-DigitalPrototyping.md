@@ -13,11 +13,22 @@ hide:
 > Núria Valsells, Oliver Lloyd and Carmen Robres
 
 ### References
+![](../../images\term3\Prototyping\RefesM3.jpg) 
 
 
 ### Process
+At first, we had to make several changes to the product design. Initially, we attempted to create a modular and large shelving unit. However, we soon realized that we didn't have enough wood to construct a shelving unit made up of four blocks. Therefore, we opted to create an L-shaped structure to reduce the amount of wood needed. 
 
-![](../../images\term3\Prototyping\PROCESS.jpg) 
+This design better suited our requirements and the available materials. However, when we presented this design for cutting, we were informed that it lacked balance due to excess material on the sides, and it didn't guarantee stability. Consequently, we redesigned the structure to consist of cubes, small squares that could be added both vertically and horizontally. 
+
+This time, we focused on just two blocks instead of three and incorporated further structural changes to ensure balance. We transitioned from using pressure-based joints to employing a T-joint system, which required screws and washers to secure the pieces together. Additionally, to insert the shelves into the cubes, we utilized a typical Ikea-style system where holes were drilled, and small wooden pegs to support the shelves. 
+
+However, we encountered two structural issues: the initial design was intended for a CNC M4 machine, which was broken, necessitating a design change, and the male-female joint configuration was modified to ensure structural integrity by making each piece have both male and female sides for better grip and stability. These adjustments were made, and we were finally able to print and cut using the CNC machine.
+
+![](../../images\term3\Prototyping\PROCESS.jpg)
+
+
+![](../../images\term3\Prototyping\PROCESS2.jpg)
 
 
 
