@@ -38,3 +38,16 @@ Moreover, Torres connected these theoretical discussions to real-world examples,
 
 ###  Reflections
 This course was truly intriguing for me, though I found it somewhat challenging to fully grasp. One key takeaway came from Donna Haraway's perspective, urging us to move away from human-centered thinking and consider a broader perspective that includes learning from other organisms. She highlights the notion that we need to step back from the belief that humans are solely responsible for everything and instead recognize our symbiotic relationship with the world around us. This insight from the FutureTalk has prompted me to rethink my project, suggesting that I may need to explore beyond the confines of human knowledge and embrace a more inclusive approach that considers the perspectives of non-human entities.
+
+
+## Collective urban practice for resilient communities and cities
+**I wasn't able to attend :/** 
+
+
+## Understanding your emerging profiles and roles
+###  Contents
+![](../../images\term3\FutureTalks/Future2.jpg){style: width="480", align=right}
+
+
+
+###  Reflections

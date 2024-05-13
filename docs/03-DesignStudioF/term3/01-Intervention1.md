@@ -2,6 +2,7 @@
 <div style="height:2px; background-color: #E17858; margin-top: 40px; margin-bottom: -20px;"></div>
 
 ## Mapping my new research topic
+> 9th of April
 After the Design Dialogues and the Easter break, the focus shifted to the MDFest project for the remainder of the term. This realization initially caused some stress, **as I realized I didn't want to simply present an object aimed at addressing mental health. The exploration felt too subjective, and I lacked clarity on what the solution should entail or where I fit within the mental health concept.**
 
 Moreover, during the Design Dialogues, I noticed that although many people find mental health topics interesting and important, it's not a subject people readily discuss or confront directly. Therefore, my intervention this week involved reflecting on what I wanted to do based on my progress throughout the year. **I mapped out my trimester's advancements, identifying key objectives and themes from each intervention to ideate my potential MDEFest presentation.** I considered various experiences, products, and objects I could create if given an empty room.
@@ -34,3 +35,8 @@ My current goal is to find my niche and refine my thesis. I'll revisit foundatio
 ![](../../images/term3/DesginStudio/Calendar.png)
 
 ### So what, Now what?
+After speaking with Saúl, I've been reflecting more on my stance in this world regarding this issue. The concept of surveillance capitalism is undeniably complex, and the monetization of data prompts deep reflection. However, delving into this topic requires going beyond what I initially envisioned. From my limited research, it's clear that most people aren't fully aware of the extent to which their data is being collected. Therefore, while the Data Supermarket idea holds merit, there's a need to explore further the various apps and methods of data collection, as well as the type of knowledge generated from this data.
+
+Ultimately, I must heed Saúl's advice to find my own battle – identifying which apps or types of information concern me the most. The crucial next step is finding ways to communicate and educate people about this issue. Subversion, as Saúl suggested, entails navigating within the system to resist this surveillance. However, my immediate task is to determine the nature of my fight and how to effectively communicate it, so people can understand and experience firsthand the impact of surveillance. Because, fundamentally, they're already being surveilled; they're just not aware of it. Therefore, my new goal is to create experiences that allow people to grasp and comprehend this issue firsthand, shifting the focus from indifference to active engagement.
+
+
