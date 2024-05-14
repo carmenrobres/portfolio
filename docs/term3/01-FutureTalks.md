@@ -46,8 +46,6 @@ This course was truly intriguing for me, though I found it somewhat challenging 
 
 ## Understanding your emerging profiles and roles
 ###  Contents
-![](../../images\term3\FutureTalks/Future2.jpg){style: width="480", align=right}
-
-
+n this FutureTalk, Krzysztof shared his journey of before and after MDEF. He walked us through the early stages of his career, from his initial interests in design to what he's currently doing with his businesses, and how he's applied MDEF methodologies to his work and daily life.
 
 ###  Reflections

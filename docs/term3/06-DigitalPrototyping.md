@@ -27,33 +27,45 @@ However, we encountered two structural issues: the initial design was intended f
 
 ![](../../images\term3\Prototyping\PROCESS.jpg)
 
+Finally, we proceeded to cut with the CNC. We encountered only one error, which occurred when programming the CNC: we positioned the material incorrectly. As a result, during the transition from engraving to cutting, the CNC slightly went over the material. Essentially, it cut the wood when it shouldn't have while moving. To rectify this, we stopped the machine and corrected the error so that when it returned to zero, it moved upward this time.
+
+Additionally, we had a minor oversight: the wooden pieces needed to be positioned perfectly. When inserting the screws, we should have drilled slightly smaller holes to ensure better fixation. Nonetheless, the final product turned out perfectly. My reflection would be to explore ways to connect the two modules, perhaps using 3D printed pieces or similar solutions.
 
 ![](../../images\term3\Prototyping\PROCESS2.jpg)
 
-
-
-**Final Product**
+![](../../images\term3\Prototyping\CNCFINAL.jpg)
 
 
 
 ### Reflection: The four F’s of active reviewing
 *Facts:* 
 
+- We had to redesign the product three times to improve its stability.
+
+- There was a minor error in the CNC, but it was corrected.
+
+- The most complex part was the design and the tolerance to consider, taking into account the tools that had to be used and the CNC itself.
 
  *Feelings:* 
 
+- Initially, I thought the CNC would be intimidating, but after redesigning the product 3 times, I gained confidence knowing it would cut well.
+
+-  This process helped me understand better how it works and gave me much more assurance, not only in the design process, which is also complex due to speed and tolerance issues, but also because it's a large machine that commands respect.
+
+- Despite encountering errors, we were finally able to create a correct and functional structure.
 
 
  *Findings:* 
 
+- I learned various methods of joining, which I believe will be valuable in the future.
+
+- The experience also taught me to derive confidence from it and explore different ways to create stable products.
 
  *Future:* 
+ 
+- I aim to utilize the CNC more in the future.
 
-
-Facts: An objective account of what happened
-Feelings: The emotional reactions to the situation
-Findings: The concrete learning that you can take away from the situation
-Future: Structuring your learning such that you can use it in the future
+- Additionally, I envision using 3D printing to create parts that can join the sides of the structure, ensuring better quality and stability.
  
 <span style="background-color: #FFFCFA; padding: 10px; border: 1px solid #699ADA;"> [Fabrication files](https://drive.google.com/drive/folders/1NmSh28hcguX5nGBE1HpGVCuo5WYQRLI6?usp=drive_link).</span>
 
