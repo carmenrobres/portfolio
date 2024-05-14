@@ -17,7 +17,7 @@ For this week, we decided to combine two projects that had originated from the f
 <span style="background-color: #FFFCFA; padding: 10px; border: 1px solid #699ADA;"> [Check out the repository](https://github.com/carmenrobres/microchallenge3).</span>
 
 ### Reflection
-![](../../images\term2\Microchallenge\micro.png){style: width="480", align=left}
+![](../../images\term3\Prototyping\Micro.png){style: width="480", align=left}
 
 **This week's project has been a culmination of my coursework for the year, allowing me to integrate all the techniques I've been exploring. From delving into Arduino and refining its applications to crafting a wearable piece, experimenting with code to communicate across various devices, and creating visual representations of emotional dynamics – this microchallenge has been instrumental in consolidating my learning journey.**
 
