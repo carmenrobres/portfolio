@@ -49,3 +49,9 @@ This course was truly intriguing for me, though I found it somewhat challenging 
 n this FutureTalk, Krzysztof shared his journey of before and after MDEF. He walked us through the early stages of his career, from his initial interests in design to what he's currently doing with his businesses, and how he's applied MDEF methodologies to his work and daily life.
 
 ###  Reflections
+
+For me, Krzysztof's insights were quite valuable in understanding what can be done after MDEF. It's true that Krzysztof already had a more developed work experience before MDEF, and he was able to explain how he has further developed various practices and ethics in his daily life through the Master's program. This path is certainly an objective for me as well, but I still have much to experience with different practices and to develop as a professional in order to apply these ethics I've developed in the master's program.
+
+What struck me the most about Krzysztof's experience is that once the master's program ends, people won't be waiting for us to graduate and start working. We have to hustle and actively seek out a job that aligns with our interests. It's a journey that requires patience, and while we may find something with effort, it's not guaranteed.
+
+Krzysztof has leaned towards a more artistic and service design-oriented path, while I am more interested in a technical and research-focused route. I would like to meet more people who have followed this technical path. Nonetheless, it was a very valuable conversation, and it was great to get to know more people from the master's program and their professional lives afterward.
