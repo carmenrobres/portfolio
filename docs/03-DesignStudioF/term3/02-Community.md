@@ -19,7 +19,7 @@ Ultimately, **Andrea emphasized that few people are fully aware of the extent of
 ## The Glass Room
 >26nd of April
 The second community I reached out to was The Glassroom, a company that has been creating exhibitions for almost 10 years with the aim of raising awareness about data protection. They are a very open community, with much of their projects and activities documented online. I contacted them to inquire about sharing their posters, information, and contacts related to data privacy for exhibition at MTFest. Currently, I am still in contact with them, and they are enthusiastic about the prospect of collaborating to build a community advocating for people's data privacy and bringing visibility to this important issue.
-
+<span style="background-color: #FFFCFA; padding: 10px; border: 1px solid #699ADA;"> [Learn more about The Glassroom](https://www.theglassroom.org/misinformation/).</span>
 
 ## Saúl Baeza
 > April/May
