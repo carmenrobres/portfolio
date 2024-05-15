@@ -16,10 +16,12 @@ For this week, we decided to combine two projects that had originated from the f
 
 <span style="background-color: #FFFCFA; padding: 10px; border: 1px solid #699ADA;"> [Check out the repository](https://github.com/carmenrobres/microchallenge3).</span>
 
-### Reflection
-![](../../images\term3\Prototyping\Micro.png){style: width="480", align=left}
 
+
+### Reflection
 **This week's project has been a culmination of my coursework for the year, allowing me to integrate all the techniques I've been exploring. From delving into Arduino and refining its applications to crafting a wearable piece, experimenting with code to communicate across various devices, and creating visual representations of emotional dynamics – this microchallenge has been instrumental in consolidating my learning journey.**
+
+![](../../images\term3\Prototyping\Micro.jpg){style: width="500", align=left}
 
 In particular, it's provided a platform to delve into the core themes of my master's program: the intersection of technology as a reflective tool and the pervasive nature of capitalist surveillance. Exploring tools like Machine Learning has underscored the biases inherent in data collection and analysis, while grappling with the complexities of creating accurate datasets has been eye-opening.
 
