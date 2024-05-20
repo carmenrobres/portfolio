@@ -11,7 +11,7 @@ hide:
 ###  Contents
 
 
-![](../../images/term2/Measuring/Measuring2.png){style: width="480", align=right}
+![](../images/term2/Measuring/Measuring2.png){style: width="480", align=right}
 
 **In this course, we immersed ourselves in the realm of data, exploring tools for documenting, storing, and analyzing information.** During an exercise, we competed for tools relevant to our project theme – understanding the impact of music on emotions and social connection. The options included Arduino, a SmartCitizen Kit, physical intervention tools, and cameras. While cameras seemed more challenging and interesting for our project, we opted for physical intervention, better suited for our focus on emotions and music.
 
@@ -21,7 +21,7 @@ Our project primarily involved data collection, where we presented people with a
 
 <span style="background-color: #FFFCFA; padding: 10px; border: 1px solid #699ADA;">If you want to see the actual technical parts and process of the activity, you can read our [Journal.](https://hackmd.io/XC00gQSFT9SQP1POiJPHgA?both)</span>
 
-![](../../images/term2/Measuring/Measuring.jpg)
+![](../images/term2/Measuring/Measuring.jpg)
 
 ###  Presentation
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2225%;

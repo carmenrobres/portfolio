@@ -19,7 +19,7 @@ I want to dive into interdisciplinary collaboration, get creative with design, a
 My purpose is to create immersive installations, interactive experiences, and tech artifacts that make people talk and reflect about where humanity meets tech. Expect prototypes, exhibitions, and multimedia materials that kickstart discussions on the future of human identity and mental health in our tech-centric world.
 
 ### Stakeholders
-![](../../images\term2\CommunicatingIdeas\StakeHolders 1.png){style: width="480", align=right}
+![](../images\term2\CommunicatingIdeas\StakeHolders 1.png){style: width="480", align=right}
 My project delves into ethical reflections and societal impacts, aiming to ignite meaningful conversations about transhumanism and technology. To ensure a comprehensive approach to addressing the complexities surrounding the integration of technology into human identity and experience, I seek to engage a diverse array of stakeholders.
 
 At this moment, **I identify stakeholders to be crucial to project development primarily within academia, government, and industry.** The technological industry provides invaluable insights and advancements that can be applied to my project, while academia aids in conceptualizing the topic. Government involvement is vital for formulating policies necessary to navigate humanity's course among technological advancement. As the project matures and becomes more tangible, engaging media and broader communities will become more feasible. However, my current challenge is to narrow the project's focus to specific communities given its broad scope in the realm of technology and humanism.
@@ -42,14 +42,14 @@ The most important thing is the promotion of happiness while upholding principle
 
 In essence, **my project seeks to use the potential of technology to empower individuals, promote well-being, and cultivate a sense of belonging within a supportive community framework. After promoting these technologies, I also want to understand and reflect on the impact of them in me and within this community.**
 
-![](../../images\term2\CommunicatingIdeas\Voice.png)
+![](../images\term2\CommunicatingIdeas\Voice.png)
 
 
 ### My Tandem Project: Personality
 
 **How will my project act?**
 
-![](../../images\term2\CommunicatingIdeas\PErsonality.png){style: width="480", align=right}
+![](../images\term2\CommunicatingIdeas\PErsonality.png){style: width="480", align=right}
 When envisioning the persona of my project, I drew inspiration from the character **Janet from the series "The Good Place."** Much like Janet, an artificial intelligence embodied in human form, my project aims to offer comfort, support, and address various needs. Given its focus on mental health, I recognize the importance of maintaining a serious tone that respects the sensitivity of the issue.
 
 While seriousness is essential, I also strive for an energetic tone that is easily digestible, capturing people's attention and engaging them in the subject matter. The goal is to encourage reflection on the intersection of mental health and technology, challenging conventional perceptions and fostering dialogue about the future.
@@ -65,7 +65,7 @@ Ultimately, **my project serves as a bold reflection tool, prompting individuals
 The tone of my project should **embody honesty, proactivity, and a touch of sarcasm.** The core idea revolves around developing technologies initially aimed at improving mental health. However, there's an underlying uncertainty about whether these innovations might pose future problems. Essentially, I want people to perceive the technologies I'm developing as beneficial for society while also questioning their long-term implications.
 
 Consider, for instance, the use of a brain implant to alleviate depression. While it may appear promising at first glance, the potential risks associated with such invasive interventions cannot be overlooked. Thus, I aim for a tone that subtly challenges perceptions, prompting individuals to reflect on the true nature of what I'm proposing – whether it's ultimately advantageous or detrimental.
-![](../../images\term2\CommunicatingIdeas\Tone.png)
+![](../images\term2\CommunicatingIdeas\Tone.png)
 
 <br></br>
 
@@ -75,7 +75,7 @@ When it comes to identifying an archetype for my project, it's a bit challenging
 
 Similarly, if I had to choose a specific archetype, I would opt for **the Innocent. Ultimately, what I aim for is to explore spirituality in a simple and honest manner, while utilizing technology, which is complex and can sometimes deceive.**
 
-![](../../images\term2\CommunicatingIdeas\Archetypes.png)
+![](../images\term2\CommunicatingIdeas\Archetypes.png)
 
 
 ## S3: Transmedia Storytelling
@@ -90,7 +90,7 @@ Lastly, targeting **the general public**, particularly the younger generation, i
 
 **The overarching message is clear: to inspire each of these communities to envision a future where technology and ethics intersect to uplift mental health and well-being for individuals and society at large.**
 
-![](../../images\term2\CommunicatingIdeas\Media.png)
+![](../images\term2\CommunicatingIdeas\Media.png)
 
 
 ## S4: Last Class

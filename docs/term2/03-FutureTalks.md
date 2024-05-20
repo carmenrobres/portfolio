@@ -14,7 +14,7 @@ During this talk, I've had the opportunity to reflect on Distributed Design and 
 While it may be challenging to maintain sustainable consciousness, considering my project ultimately revolves around artificial intelligence technologies, I aim to prioritize humanism and equity concepts. Therefore, I aspire to pursue ethical and equitable innovation.
 
 ###  Reflections
-![](../../images/term2\FutureTalks\Tree.png)
+![](../images/term2\FutureTalks\Tree.png)
 
 **- What are the key takeaways from the activity?**
 During the presentation, we learned about the Distributed Design Platform called Reflection Tree. Essentially, it's a tool that helps you review your own projects and practices. I used this tool to evaluate a project I worked on in the first trimester, which was about digital identity and artificial intelligence. Clearly, this project was more about my personal exploration into AI and identity. I didn't expect it to impact society but rather to affect my own understanding and approach to the topic. Using this tool made me realize that my previous projects related to AI and identity have been quite self-centered and subjective. I may need to reconsider how I approach my projects. While it's challenging to connect AI to sustainability, I could strive to make my projects more open and collaborative. For instance, if I develop technology to enhance societal identity, it should be accessible to everyone. Additionally, discussions on mental health identity could involve collaboration with diverse communities and embrace regenerative practices and inclusion.
@@ -31,7 +31,7 @@ Additionally, I think this tool is extensive and should be focused on long-term 
 ###  Contents
 In the second Future Talks, we visited Hangar's Wet Lab, located at the Can Ricard headquarters, an industrial environment in the Poblenou neighborhood of Barcelona. There, we were presented with the facilities and introduced to the lab. Additionally, we had a conversation with an Hangar creator and were shown the various possibilities and projects undertaken in this space. While we didn't extensively explore all available areas, we engaged in discussions in one of the spaces about different projects. It was evident that Hangar aims to support creators in all phases of the visual arts production process and contribute to the successful completion of each project. They actively promote knowledge transfer while maintaining respect for communities and both human and non-human entities, acknowledging the lab's wet, sticky nature.
 
-![](../../images/term2/FutureTalks/Hangar.jpg)
+![](../images/term2/FutureTalks/Hangar.jpg)
 
 ###  Reflections
 Personally, this visit didn't impact me much, as from what I observed of Hangar, they have a very creative way of visualizing and communicating ideas, questioning a society centered on humans. Their aim is to respect non-human entities and foster a laboratory of respect and collaboration. While I appreciate these values and believe they should be promoted more in any scientific study or collaboration, my master's thesis focuses more on technology, artificial intelligence, and its impact on mental health. Therefore, I'm not as focused on this type of non-human collaboration in societies.
@@ -50,7 +50,7 @@ Furthermore, **we attended a talk by Bani Brusardin, an educator and researcher 
 
 What I gather from the talk was that in recent years, significant developments have occurred in artificial intelligence and its applications. The most pressing question we face is the role society will play and how we will adapt to this technology. Importantly, we recognize that it's not solely about technology adapting to us, but also about us adapting to it. We must change society to utilize this technology as a tool, but with caution, as AI is evolving independently and creating synthetic minds. As a society, we need to be aware of and manage these developments, ensuring that humans can use these technologies as resources rather than being absorbed by them.
 
-![](../../images/term2/FutureTalks/Internet.jpg)
+![](../images/term2/FutureTalks/Internet.jpg)
 
 ###  Reflections
 ####  Internet Tour

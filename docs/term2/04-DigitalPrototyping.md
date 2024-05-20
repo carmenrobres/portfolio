@@ -12,14 +12,14 @@ hide:
 > Núria Valsells and Carmen Robres
 
 ### References
-![](../../images\term2\Fabrication\Refes.jpg) 
+![](../images\term2\Fabrication\Refes.jpg) 
 
 ### Process
-![](../../images\term2\Fabrication\FABRICATION.jpg){style: width="520"}
+![](../images\term2\Fabrication\FABRICATION.jpg){style: width="520"}
 
 **Final Product**
 
-![](../../images\term2\Fabrication\FABRICATION2.jpg)
+![](../images\term2\Fabrication\FABRICATION2.jpg)
 
 **Short Video of the process**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0cLL_Nu7nfY?si=5yCwepf1wE0ZHRyy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -55,16 +55,16 @@ hide:
 > Núria Valsells and Carmen Robres
 
 ### References
-![](../../images\term2\Fabrication\Refes3D.jpg) 
+![](../images\term2\Fabrication\Refes3D.jpg) 
 
 ### Process
-![](../../images\term2\Fabrication\FABRICATION3D.jpg){style: width="520"}
+![](../images\term2\Fabrication\FABRICATION3D.jpg){style: width="520"}
 
 **Final Product**
 
 After 3 weeks, we finally removed the mycelium from the mold. It had grown extensively and remained uninfected. While it did take on the desired shape, it didn't grow exactly as we intended. Perhaps if we had allowed it more time to grow, it would have taken on the intended shape with all the desired details.
 
-![](../../images\term2\Fabrication\FABRICATION23D.jpg)
+![](../images\term2\Fabrication\FABRICATION23D.jpg)
 
 
 ### Reflection: The four F’s of active reviewing
@@ -100,16 +100,6 @@ After 3 weeks, we finally removed the mycelium from the mold. It had grown exten
 <span style="background-color: #FFFCFA; padding: 10px; border: 1px solid #699ADA;"> [Fabrication files](https://cults3d.com/en/3d-model/home/drop-ashtray).</span>
 
 
-## CNC manufacturing  
-> ???
-
-> Núria Valsells, Oliver LLoyd and Carmen Robres
-
-### References
-
-### Process
-
-### Reflection: The four F’s of active reviewing
 
 
 

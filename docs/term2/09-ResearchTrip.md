@@ -7,7 +7,7 @@ hide:
 <div style="height:2px; background-color: #E17858; margin-top: 40px; margin-bottom: -20px;"></div>
 
 ## Reflection
-![](../../images\term2\Research\2024-03-18 17_40_37.848.jpg){style: width="480", align=right}
+![](../images\term2\Research\2024-03-18 17_40_37.848.jpg){style: width="480", align=right}
 
 The Research Trip proved to be a remarkable adventure, offering a profound connection with nature. Admittedly, integrating the concept of my thesis—focused on mental health and technology, particularly artificial intelligence—into the natural setting was initially challenging. However, following the Design Dialogues, where I gained insights into the significance of senses in inducing calmness, such as touch, smell, sight, and sound, I embarked on this trip with a new perspective.
 

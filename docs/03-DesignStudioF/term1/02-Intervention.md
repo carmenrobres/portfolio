@@ -35,4 +35,4 @@ Furthermore, **I want to focus on my identity and the identities of others, exam
 
 ### My new Design Space
 
-![](../../images/Term1/Designstydio/DesignSPace.svg)
+![](../../images/Term1/AoWS/FINAL2.jpg)
