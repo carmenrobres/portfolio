@@ -13,7 +13,7 @@ hide:
 > Núria Valsells, Oliver Lloyd and Carmen Robres
 
 ### References
-![](../images\term3\Prototyping\RefesM3.jpg) 
+![](../images/term3/Prototyping/RefesM3.jpg)
 
 
 ### Process
