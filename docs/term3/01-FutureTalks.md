@@ -9,7 +9,7 @@ hide:
 ## Designing from within your context
 
 ###  Contents
-![](../images\term3\FutureTalks\IMG_3520.JPEG){style: width="480", align=right}
+![](../images/term3/FutureTalks/IMG_3520.JPEG){style: width="480", align=right}
 
 During our conference, we were taken on a tour of Hospitalet, where we explored various artistic and design communities. We also gained insights into the city's culture and its lesser-known aspects. It was fascinating to learn about Hospitalet's cultural concept as a highly communal city where residents support each other and keep certain spaces secret to prevent rent hikes within the community.
 
@@ -29,7 +29,7 @@ The reflection I've drawn from Saúl is that I essentially need to find my theme
 ## For More Than Human-Centered Worlds
 
 ###  Contents
-![](../images\term3\FutureTalks/Future2.jpg){style: width="480", align=right}
+![](../images/term3/FutureTalks/Future2.jpg){style: width="480", align=right}
 
 In Helen Torres's class, we delved into the concept of the Anthropocene, where she challenged the notion that humanity itself is the problem, instead pinpointing "man" as individuals as the source of issues. She emphasized the importance of acknowledging symbiotic relationships and symbiogenesis, highlighting the intertwined nature of organisms and the necessity of collaboration rather than competition in the current era. Through the lens of sympoiesis, she urged us to understand that nothing exists in isolation, advocating for collective knowing and response-ability in navigating complex natural-cultural histories.
 

@@ -25,15 +25,15 @@ This time, we focused on just two blocks instead of three and incorporated furth
 
 However, we encountered two structural issues: the initial design was intended for a CNC M4 machine, which was broken, necessitating a design change, and the male-female joint configuration was modified to ensure structural integrity by making each piece have both male and female sides for better grip and stability. These adjustments were made, and we were finally able to print and cut using the CNC machine.
 
-![](../images\term3\Prototyping\PROCESS.jpg)
+![](../images/term3/Prototyping/PROCESS.jpg)
 
 Finally, we proceeded to cut with the CNC. We encountered only one error, which occurred when programming the CNC: we positioned the material incorrectly. As a result, during the transition from engraving to cutting, the CNC slightly went over the material. Essentially, it cut the wood when it shouldn't have while moving. To rectify this, we stopped the machine and corrected the error so that when it returned to zero, it moved upward this time.
 
 Additionally, we had a minor oversight: the wooden pieces needed to be positioned perfectly. When inserting the screws, we should have drilled slightly smaller holes to ensure better fixation. Nonetheless, the final product turned out perfectly. My reflection would be to explore ways to connect the two modules, perhaps using 3D printed pieces or similar solutions.
 
-![](../images\term3\Prototyping\PROCESS2.jpg)
+![](../images/term3/Prototyping/PROCESS2.jpg)
 
-![](../images\term3\Prototyping\CNCFINAL.jpg)
+![](../images/term3/Prototyping/CNCFINAL.jpg)
 
 
 
@@ -77,17 +77,17 @@ Additionally, we had a minor oversight: the wooden pieces needed to be positione
 For this project, our goal was to experiment with different input methods, whether through textiles, the phone, or the camera. This prepared us for MDFest, which is essentially our project theme: playing with sensors and exploring how we can detect the body in various ways. Our reference was to create a sort of online call where, based on the detected emotions and movement, the camera feed would change color and sound according to how the person on the other end interacted with you.
 The inputs are supposed to be: Soft sensor, phone and face.
 
-![](../images\term3\Prototyping\RefesM4.jpg) 
+![](../images/term3/Prototyping/RefesM4.jpg) 
 
 ### Soft Sensor
 We also created two types of textile sensors. One had a mesh design, allowing us to detect various pressure points across the fabric. The other, simpler one, colored red, detected pressure or its absence using an Arduino. Essentially, we developed these textiles in class and then programmed Arduino and Processing to receive and display the data accordingly.
 
-![](../images\term3\Prototyping\SOFTM4.jpg) 
+![](../images/term3/Prototyping/SOFTM4.jpg) 
 
 ### Process
 Next, we took the three inputs and trained the Wekinator so that, in the following module, we could simply play with inputs 0, 1, or 2. Essentially, we aimed to train a model to detect when someone is angry, indicated by aggressive movements, when someone is happy, indicated by fluid movements, and when someone is confused, indicated by minimal movement. The third input is the soft sensor, which essentially allowed us to halt all subsequent inputs. In other words, face and phone tracking are of the same type, recognizing feelings and emotions, while the last one is simply a button we'll use to alter the inputs and outputs of Wekinator and Max8 in a different way.
 
-![](../images\term3\Prototyping\FABRICATIONM4.jpg) 
+![](../images/term3/Prototyping/FABRICATIONM4.jpg) 
 
 **Video of the training**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D30XIrBqzps?si=DH1QLfwCDWyFmj_2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -135,12 +135,12 @@ Next, we took the three inputs and trained the Wekinator so that, in the followi
 
 The main objective is to alter the inputs through sound and video, attempting to manipulate the visuals to touch upon various aspects of the video recieved.
 
-![](../images\term3\Prototyping\RefesM5.jpg) 
+![](../images/term3/Prototyping/RefesM5.jpg) 
 
 
 ### Process
 
-![](../images\term3\Prototyping\FABRICATIONM5.jpg) 
+![](../images/term3/Prototyping/FABRICATIONM5.jpg) 
 
 For this project, our task was to use the inputs we had programmed through Wekinator and produce the output. Since we aimed to alter the concept of a video call, we generated an audio message like, "Hello, hello, can you hear me?" and also the camera feed. Then, based on the movements and emotions we conveyed to our computer, the output of both the camera feed and audio would change. Ultimately, the soft sensor was used more to create a negative or pause effect on the camera feed. In other words, while emotions detected triggered changes in the image, the soft sensor served as a way to pause, switch, and create a negative of the camera feed.
 
