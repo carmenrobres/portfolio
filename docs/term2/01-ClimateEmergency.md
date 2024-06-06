@@ -21,9 +21,9 @@ The fact that we are becoming users rather than individuals and the idea that it
 
 ### Field Trip
 
-![](../images\term2\CLimateEmergency\Cartel.jpg){style: width="480", align=right}
+![](../images/term2/CLimateEmergency/Cartel.jpg){style: width="480", align=right}
 On the last day of class, we decided to engage with the people of Barcelona in an activity aimed at helping them discuss climate change patiently and pleasantly, making them aware of the urgent climate issues our planet is facing.**Our specific group noticed that most classmates were trying to prompt reflection by creating banners directly related to the climate emergency, aiming to make people realize there's a problem with society. In contrast, we took a more inspirational route, aiming to make them feel optimistic.** We approached them first, initiating conversations about the future they envision, emphasizing that certain changes are needed. When we hit the streets and talked to people, most were already environmentally conscious, expressing a desire for a greener, more sustainable future.
 
 When asked about the changes required in society to achieve this vision, many focused on personal changes and changes within society. In conclusion, most people envisioned a greener future, desiring its realization. However, they believed their contribution was limited to increased recycling. They felt society, in general, needed to change its mindset, stop demanding unnecessary things, and move away from the mindset of constant need without contributing to society. **The responses were few but precise, aligning with our seminar discussions that emphasized the need for a societal shift in thinking, operating, and mutual expectations to reach an emergent future where humanity thrives and emerges from the climate crisis.**
-![](../images\term2\CLimateEmergency\TheRevolution.jpg)
+![](../images/term2/CLimateEmergency/TheRevolution.jpg)
 

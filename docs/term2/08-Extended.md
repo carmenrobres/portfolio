@@ -8,7 +8,7 @@ hide:
 
 ## Project: Group 5
 
-![](../images\term2\Extended\c4f23bfe-6a04-40db-bc76-b0abb7d20c78.jpg){style: width="480", align=right}
+![](../images/term2/Extended/c4f23bfe-6a04-40db-bc76-b0abb7d20c78.jpg){style: width="480", align=right}
 ### Dot-Tod Camera
 Regarding the Dot-Tod Camera web, we found it fascinating to explore how artificial intelligence struggles to grasp the concept of trash. Instead of simply replicating and redesigning the trash image in various ways, it consistently reassessed the trash and transformed it into a functional object. Moreover, providing additional context to implicit images proved challenging. For instance, after feeding it the robotic arm image, it could only generate designs related to robotic arms, making it difficult to broaden its understanding without significantly expanding the prompt.
 

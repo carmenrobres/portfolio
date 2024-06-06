@@ -18,7 +18,7 @@ We decided to create a wearable device that would sense your anxiety and help yo
 
 ### Reflection
 
-![](../images\term2\Microchallenge\GIF_wifi.gif)
+![](../images/term2/Microchallenge/GIF_wifi.gif)
 
 This project presented numerous challenges and proved to be quite demanding, as we were initially unaware of the extensive work involved in the projects we were visualizing. Our goal was to become cyborgs or experiment with technology to integrate artificial intelligence into our daily lives. We had been eagerly anticipating the MicroChallenge for quite some time, hoping to create technology that would enable us to live as cyborgs for a week.
 
@@ -43,7 +43,7 @@ For this week, we decided to combine two projects that had originated from the f
 <span style="background-color: #FFFCFA; padding: 10px; border: 1px solid #699ADA;"> [Check out the repository](https://github.com/annafedele/microchallenge-II).</span>
 
 ### Reflection
-![](../images\term2\Microchallenge\micro.png){style: width="480", align=left}
+![](../images/term2/Microchallenge/micro.png){style: width="480", align=left}
 
 For me, this microchallenge felt less intense because I think we were more practical in deciding what we wanted to do. Initially, I wanted to work on the microchallenge alone and experiment with using artificial intelligence with anxiety necklaces. My idea was to add a camera to the ESP 32XIAO so that whenever the anxiety necklace was activated, it would take a photo. Then, an AI would interpret the image and generate audio to help calm the wearer.
 
