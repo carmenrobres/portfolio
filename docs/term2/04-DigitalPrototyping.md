@@ -99,6 +99,68 @@ After 3 weeks, we finally removed the mycelium from the mold. It had grown exten
 
 <span style="background-color: #FFFCFA; padding: 10px; border: 1px solid #699ADA;"> [Fabrication files](https://cults3d.com/en/3d-model/home/drop-ashtray).</span>
 
+## CNC Furniture
+> Modular Shelf. 
+
+> Núria Valsells, Oliver Lloyd and Carmen Robres
+
+### References
+![](../images/term3/Prototyping/RefesM3.jpg)
+
+
+### Process
+At first, we had to make several changes to the product design. Initially, we attempted to create a modular and large shelving unit. However, we soon realized that we didn't have enough wood to construct a shelving unit made up of four blocks. Therefore, we opted to create an L-shaped structure to reduce the amount of wood needed. 
+
+This design better suited our requirements and the available materials. However, when we presented this design for cutting, we were informed that it lacked balance due to excess material on the sides, and it didn't guarantee stability. Consequently, we redesigned the structure to consist of cubes, small squares that could be added both vertically and horizontally. 
+
+This time, we focused on just two blocks instead of three and incorporated further structural changes to ensure balance. We transitioned from using pressure-based joints to employing a T-joint system, which required screws and washers to secure the pieces together. Additionally, to insert the shelves into the cubes, we utilized a typical Ikea-style system where holes were drilled, and small wooden pegs to support the shelves. 
+
+However, we encountered two structural issues: the initial design was intended for a CNC M4 machine, which was broken, necessitating a design change, and the male-female joint configuration was modified to ensure structural integrity by making each piece have both male and female sides for better grip and stability. These adjustments were made, and we were finally able to print and cut using the CNC machine.
+
+![](../images/term3/Prototyping/PROCESS.jpg)
+
+Finally, we proceeded to cut with the CNC. We encountered only one error, which occurred when programming the CNC: we positioned the material incorrectly. As a result, during the transition from engraving to cutting, the CNC slightly went over the material. Essentially, it cut the wood when it shouldn't have while moving. To rectify this, we stopped the machine and corrected the error so that when it returned to zero, it moved upward this time.
+
+Additionally, we had a minor oversight: the wooden pieces needed to be positioned perfectly. When inserting the screws, we should have drilled slightly smaller holes to ensure better fixation. Nonetheless, the final product turned out perfectly. My reflection would be to explore ways to connect the two modules, perhaps using 3D printed pieces or similar solutions.
+
+![](../images/term3/Prototyping/PROCESS2.jpg)
+
+![](../images/term3/Prototyping/CNCFINAL.jpg)
+
+
+
+### Reflection: The four F’s of active reviewing
+*Facts:* 
+
+- We had to redesign the product three times to improve its stability.
+
+- There was a minor error in the CNC, but it was corrected.
+
+- The most complex part was the design and the tolerance to consider, taking into account the tools that had to be used and the CNC itself.
+
+ *Feelings:* 
+
+- Initially, I thought the CNC would be intimidating, but after redesigning the product 3 times, I gained confidence knowing it would cut well.
+
+-  This process helped me understand better how it works and gave me much more assurance, not only in the design process, which is also complex due to speed and tolerance issues, but also because it's a large machine that commands respect.
+
+- Despite encountering errors, we were finally able to create a correct and functional structure.
+
+
+ *Findings:* 
+
+- I learned various methods of joining, which I believe will be valuable in the future.
+
+- The experience also taught me to derive confidence from it and explore different ways to create stable products.
+
+ *Future:* 
+ 
+- I aim to utilize the CNC more in the future.
+
+- Additionally, I envision using 3D printing to create parts that can join the sides of the structure, ensuring better quality and stability.
+ 
+<span style="background-color: #FFFCFA; padding: 10px; border: 1px solid #699ADA;"> [Fabrication files](https://drive.google.com/drive/folders/1NmSh28hcguX5nGBE1HpGVCuo5WYQRLI6?usp=drive_link).</span>
+
 
 
 
