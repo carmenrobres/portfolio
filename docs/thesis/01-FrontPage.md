@@ -27,5 +27,13 @@ hide:
 
 ![](../images/Thesis/GetInvolved.jpg)
 
+![](../images/Thesis/mdef.jpg)
+
+<p align="center">
+  <a href="https://carmenrobres.github.io/portfolio/thesis/02-Project/" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #E17858; text-align: center; text-decoration: none; border-radius: 5px;">
+    Find out more about my final project and the MDEFest
+  </a>
+</p>
+
 ![](../images/Thesis/Contact.jpg)
 
