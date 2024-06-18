@@ -4,7 +4,7 @@
 ## Reflection after research and exploration
 
 
-![](../../images/term3/DesginStudio/2024-06-11 16_19_43.230.JPEG)
+![](../../images/term3/DesginStudio/2024-06-11 16_19_43.230.JPEG){style: width="480", align=right}
 
 After organizing MdeFest, I realized that many people are indeed unfamiliar with the concepts of data privacy and surveillance. I believe my goal of creating interactive tools to visualize and communicate surveillance and data collection in a non-private manner worked well. By making it interactive and somewhat fun, I think people engaged more with the concept than with deep reflection. The tool surprised many because of its simplicity yet sparked conversations. What generated the most impact, in my opinion, amidst the Aggressive machine, Read The Room, and The Ad Profiler—all detailed in my final paper written by Jorge Muñoz—was the ethical questions. Through interactive means, I prompted people to reflect on technology, surveillance, and privacy.
 
