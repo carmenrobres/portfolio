@@ -27,9 +27,17 @@ hide:
 
 ![](../images/Thesis/GetInvolved.jpg)
 
-![](../images/Thesis/mdef.jpg)
+![](../images/Thesis/mdef.jpg){style: width="480", align=left} 
 
-<p align="center">
+## MDEFest: Unseen Exposures
+For my final intervention this year, I hosted an event showcasing my interactive machines. These machines represent the culmination of my project, where I emphasized the importance of discussing data privacy and surveillance capitalism. The event, held on June 11, 2024, featured three machines: the AdProfiler, the Aggressive Machine, and the ReadTheRoom Machine. Each of these machines embodies different aspects of surveillance, illustrating how companies simply gather data about individuals and what can be done with that data.
+
+**The event was essentially a small exhibition where attendees could interact with these machines, view informative posters detailing the extent of data collection, and engage in conversations about data privacy. It served as the conclusion of my project, aimed at raising awareness and sparking discussions on these critical issues.**
+<br></br>
+
+
+
+<p align="left">
   <a href="https://carmenrobres.github.io/portfolio/thesis/02-Project/" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #E17858; text-align: center; text-decoration: none; border-radius: 5px;">
     Find out more about my final project and the MDEFest
   </a>
