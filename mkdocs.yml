@@ -60,10 +60,19 @@ nav:
       - Microchallenge: term3/07-Microchallenge.md
       - Critical Transfeminist Design: term3/08-Transfeminsim.md
       
+  - Year 1 Thesis:
+      - Explanation of the Project: thesisY1/01-FrontPage.md
+      - Unseen Exposures: thesisY1/02-Project.md
+      - Publication: thesisY1/03-Publication.md
+
+  - Year 2:
+     - Biochromes: Year2/01-BioChromes.md
+     - Research and Methodologies: Year2/02-Research.md
+     - Workshop 1.1: Year2/03-Workshop1.1.md
+     - Emerging Technologies: Year2/04-EmergingTechnologies.md
+
   - Master Thesis:
-      - Explanation of the Project: thesis/01-FrontPage.md
-      - Unseen Exposures: thesis/02-Project.md
-      - Publication: thesis/03-Publication.md
+    - Explanation of the Project: thesis/01-FrontPage.md
 
 
 
