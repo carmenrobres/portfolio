@@ -19,10 +19,6 @@ Overall, it was interesting and gave me a better understanding of how these robo
 
 Here you can see a video of what we did during this workshop<3
 
-<iframe src="https://player.vimeo.com/video/1023302907?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" title="Non-Planar Additive Manufacturing Group 3"></iframe>
-
-This is our final presentation
-
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
@@ -31,3 +27,14 @@ This is our final presentation
   </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGUefzzYWM&#x2F;v1Hv6Qb40SpF90aWoLl6sw&#x2F;watch?utm_content=DAGUefzzYWM&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">CHIQUITABLE</a> by Carmen Robres de Veciana
+
+This is our final presentation
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAGUYXze03A/TLhv_jKkRw-cSlkE8Zi-bA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGUYXze03A&#x2F;TLhv_jKkRw-cSlkE8Zi-bA&#x2F;view?utm_content=DAGUYXze03A&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">WORKSHOP1.1_FINALPRESENTATION</a> by Clara Edith Carmona Hernández
