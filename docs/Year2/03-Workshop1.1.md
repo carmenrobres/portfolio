@@ -15,6 +15,8 @@ I also appreciated seeing how the robots operated, but one of the requirements w
 
 Overall, it was interesting and gave me a better understanding of how these robots work, but I still find them quite complex. The workshop was intense for someone who didn't have prior experience with the tools we used this week. Nonetheless, I learned a lot and had the chance to connect with people from other masters in IAAC, which was a great opportunity to learn even more.
 
+<span style="background-color: #FFFCFA; padding: 10px; border: 1px solid #699ADA;"> [You can find the link for the Iaac Blog here ](https://blog.iaac.net/bio-additive-manufacturing-mrac-workshop-1-1/).</span>
+
 ## Deliverables
 
 Here you can see a video of what we did during this workshop<3
@@ -38,3 +40,7 @@ This is our final presentation
   </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGUYXze03A&#x2F;TLhv_jKkRw-cSlkE8Zi-bA&#x2F;view?utm_content=DAGUYXze03A&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">WORKSHOP1.1_FINALPRESENTATION</a> by Clara Edith Carmona Hernández
+
+
+
+
