@@ -21,7 +21,7 @@ Ultimately, while I appreciated the discussion, I realized that my focus is not 
 
 
 ## Distributed Economies and Massive Collaboration
-
+I missed this class, but I was able to read through the presentation. I already had some background in distributed design, especially after our talk with Jessica. However, I think it was important to refresh my memory with this information. After reflecting on it, I see how this concept could relate to my thesis, particularly when it comes to creating an open-source network, sharing data, and allowing others to access my project without privatizing it.
 
 
 ## Social Entrepreneurship and Impact Economies
