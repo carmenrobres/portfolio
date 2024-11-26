@@ -38,7 +38,7 @@ For my final intervention this year, I hosted an event showcasing my interactive
 
 
 <p align="left">
-  <a href="https://carmenrobres.github.io/portfolio/thesis/02-Project/" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #E17858; text-align: center; text-decoration: none; border-radius: 5px;">
+  <a href="https://carmenrobres.github.io/portfolio/thesisY1/02-Project/" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #E17858; text-align: center; text-decoration: none; border-radius: 5px;">
     Find out more about my final project and the MDEFest
   </a>
 </p>
