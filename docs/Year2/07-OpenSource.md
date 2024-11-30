@@ -24,6 +24,9 @@ This project was an exploration into creating a spinning motor with 3D-printed c
 We were unable to create a fully functional clean prototype. The project works but needs design and material modifications to achieve functionality. The process has been a valuable learning experience, particularly in the challenges of tolerance, material properties, and system integration.
 
 ### References
+![](../images/year2/Fibers/Examples.png)
+
+![](../images/year2/Fibers/Example.png)
 
 ### Bill of Materials
 **Purchased Parts**
@@ -53,6 +56,7 @@ We were unable to create a fully functional clean prototype. The project works b
     - 9V Batery
 
     - Battery converter
+![](../images/year2/Fibers/Electronics.jpg)
 
 **Unique Parts**
 
@@ -104,11 +108,17 @@ We were unable to create a fully functional clean prototype. The project works b
 
 4. Secure electronics inside the housing and attach to the structure
 
+![](../images/year2/Fibers/Diagram.jpg)
+
+
 **Step 5: Test the System**
 
 1. Power the motor and adjust the potentiometer for speed control.
 
 2. Observe the rotation of the spool and axis, addressing any misalignments or issues.
+
+![](../images/year2/Fibers/Final.jpg)
+
 
 ### Source Files & Export Files
 **Source & Export Files**
@@ -165,7 +175,7 @@ This project was an experimental attempt to innovate on traditional spinning mot
 
 1. *Soldering and Circuit Finalization*:
 
-   - Completed soldering the electronics and tested the motor with the spool.
+     - Completed soldering the electronics and tested the motor with the spool.
 
     - Discovered the motor was too fast, causing stability issues.
 
@@ -182,6 +192,9 @@ This project was an experimental attempt to innovate on traditional spinning mot
     - Printing errors continued, particularly with the axis, due to the design's lack of tolerance.
 
     - Identified that the axis needed further modifications to prevent slippage and improve functionality. (We kept it that way and added resistant tape to make it more steady)
+
+![](../images/year2/Fibers/testingaxis.gif)
+
 
 **Day 3: System Integration**
 
@@ -211,21 +224,28 @@ This project was an experimental attempt to innovate on traditional spinning mot
 
     - Reinforced the wooden structure manually to improve stability.
 
+![](../images/year2/Fibers/TEsting.png)
+![](../images/year2/Fibers/Modify.png)
+
+
 2. *Testing Results*:
 
-    -The system worked partially, with the axis and spool spinning, but the design had significant flaws: 1. The spool moved too freely on the axis, requiring temporary fixes (rubber bands and tape).2. Friction and alignment issues made it inconsistent .
+    -The system worked partially, with the axis and spool spinning, but the design had significant flaws: 1. The spool moved too freely on the axis, requiring temporary fixes (rubber bands and tape).2. Friction and alignment issues made it inconsistent.
+
+
+![](../images/year2/Fibers/finalexample.gif)
+
 
 3. *Reflections*:
 
     - The design of the axis and spool requires further refinement, particularly to introduce a locking system and adjust tolerances.
 
     - The use of PLA for 3D printing raised concerns about heat resistance during prolonged motor operation. 
-    
+
     - There is a need to build a better structure.
 
 ### Licence
 This project is released under the **MIT License**, allowing users to use, modify, distribute, and share the project freely, as long as proper attribution is provided.
-
 
 
 ## Reflection
