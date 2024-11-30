@@ -143,10 +143,17 @@ This project was an experimental attempt to innovate on traditional spinning mot
 
 
 **Future Improvements**
+
 1. Redesign the spool and axis to incorporate locking mechanisms and better tolerances like make a 13 mm diameter instead of 12 on the axis. (See more of what to change and our exploration in the progress part)
+
 2. Use heat-resistant materials like PETG or ABS for 3D-printed parts.
+
 3. Create a stable, modular structure with integrated motor mounts and electronics housing.
+
 4. Test the system more thoroughly under real operating conditions to identify additional weaknesses.
+
+![](../images/year2/Fibers/Final.png)
+
 
 ### Exploration and Progress (Day 1–4)
 
@@ -247,5 +254,8 @@ This project was an experimental attempt to innovate on traditional spinning mot
 ### Licence
 This project is released under the **MIT License**, allowing users to use, modify, distribute, and share the project freely, as long as proper attribution is provided.
 
-
 ## Reflection
+
+I found the course really interesting, but we spent too much time adjusting and adapting a file instead of actually exploring what we could do with it. For example, most of our time went into making the prototype, and then adapting the materials to make it work. My main takeaway from this course is that adapting someone else's file is not always the best approach. You end up spending more time analyzing and understanding what they did instead of creating something from scratch. Additionally, we were completely dependent on one 3D printer, and since our entire project relied on 3D printed parts, it slowed down the process significantly.
+
+I would have liked to explore material resistance more and how to improve it. While it was a valuable experience to build and prototype something, I wish we had spent more time on the testing part. I think prototyping is more fun if you test, fail and fix instead of only prototyping one thing and expecting it to work (which never happens). But well, it was also fun to see how to turn fibers to fabrics <3
