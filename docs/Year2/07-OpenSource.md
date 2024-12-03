@@ -117,7 +117,7 @@ We were unable to create a fully functional clean prototype. The project works b
 
 2. Observe the rotation of the spool and axis, addressing any misalignments or issues.
 
-![](../images/year2/Fibers/Final.jpg)
+![](../images/year2/Fibers/finalfinal.JPEG)
 
 
 ### Source Files & Export Files
@@ -207,9 +207,10 @@ This project was an experimental attempt to innovate on traditional spinning mot
 
 1. *Assembly*:
 
-   - Connected the motor to the axis, with the spool tension controlled via a string mechanism.
-
+    - Connected the motor to the axis, with the spool tension controlled via a string mechanism.
     - Observed that the spool and axis could rotate in different speeds due to the tension mechanism (intended)
+    - Created a electronics housing using 3D printing.
+    ![](../images/year2/Fibers/TEsting.png)
 
 2. *Structural Testing*:
 
@@ -227,17 +228,19 @@ This project was an experimental attempt to innovate on traditional spinning mot
 
 1. *Design & Modifications*:
 
-    - Created a electronics housing using 3D printing.
+    - Created a new structure that is more stable and comapct.
+   
 
     - Reinforced the wooden structure manually to improve stability.
+![](../images/year2/Fibers/IMG_7865.JPEG)
+![](../images/year2/Fibers/Modify.png)   
 
-![](../images/year2/Fibers/TEsting.png)
-![](../images/year2/Fibers/Modify.png)
 
 
 2. *Testing Results*:
 
-    -The system worked partially, with the axis and spool spinning, but the design had significant flaws: 1. The spool moved too freely on the axis, requiring temporary fixes (rubber bands and tape).2. Friction and alignment issues made it inconsistent.
+    -The system with the first designed structure worked partially, with the axis and spool spinning, but the design had significant flaws: 1. The spool moved too freely on the axis, requiring temporary fixes (rubber bands and tape).2. The structure wasn't steady enoguh.
+    - The system with the second design structure provided a better structural integrity but now it didn't let the axis move correctly. We decided to attach the spool to the structure so it wouldn't move (making the whool attach correctly) and only make the axis move through the motor. This time the structure was holding everything in the right place but now the motor lacked the strengh to move the axis. Maybe the rubber bands and teh non gearlike attachment wasn't the best.
 
 
 ![](../images/year2/Fibers/finalexample.gif)
@@ -249,7 +252,9 @@ This project was an experimental attempt to innovate on traditional spinning mot
 
     - The use of PLA for 3D printing raised concerns about heat resistance during prolonged motor operation. 
 
-    - There is a need to build a better structure.
+    - There is a need to build a better structure that lets the axis move while keeping it steady.
+
+    - It would have been better to first try to use last year's machine to see how the design works and it's key characteristics.
 
 ### Licence
 This project is released under the **MIT License**, allowing users to use, modify, distribute, and share the project freely, as long as proper attribution is provided.
