@@ -6,6 +6,20 @@ hide:
 # LLUM BCN
 <div style="height:2px; background-color: #E17858; margin-top: 40px; margin-bottom: -20px;"></div>
 
+
+## Final Submission:
+
+LLUM has been an exciting and challenging project from the start. This class wasn’t just about creating something—it was about handling real deadlines, real problems, and real interactions. While I initially joined to learn more about interactive systems and light, the project naturally aligned with my thesis and work—exploring how AI can facilitate collaborative visions of the future.
+
+The process involved a lot of coding, debugging, and refining, making it both rewarding and tedious. One of my biggest takeaways was working with Stable Diffusion, a tool I now want to explore in greater depth. Beyond that, LLUM strengthened my understanding of Python, AI libraries, and user experience design.
+
+More than just a technical project, LLUM became an interactive platform that gave people a voice. Instead of creating something static, we built a system where users could express concerns, hopes, and creativity. Kids saw it as a playground, returning multiple times to experiment with AI-generated images, while adults used it as a space for reflection, often envisioning a future that wasn’t about high-tech robots but about reconnecting with nature. It made me reflect on how media has shaped our perception of the future—while many expect futuristic skylines and flying cars, what people truly seek is a greener, safer, and more connected world.
+
+What started as a course on light and interaction evolved into something much more meaningful. It showed me how AI can bridge technology and creativity, making complex systems accessible and engaging. LLUM is not just a finished project—it has the potential to grow, spark conversations, and continue shaping new ideas.
+
+<span style="background-color: #FFFCFA; padding: 10px; border: 1px solid #699ADA;"> [Check our IAAC blog post to know more about the project](https://iaac.net/iaac-llum-barcelona-2025/).</span>
+
+
 ## Month 1: Proposal
 During the first month, we reached out to the site and proposed different exhibit ideas. Our group specifically focused on exploring the connection between the soil and the historical path of Poblenou. Although it was a challenging exercise due to our lack of expertise and the small group dynamic, we decided to create a project inspired by the Tree of Life—a representation of a willow tree made with fiber optics in the Park's central structure.
 
