@@ -8,7 +8,7 @@ hide:
 
 
 ### Overview  
-In this assignment, we were given a pre-designed electronics board that supports an ESP32 (specifically, the Tau 4020 model). Our task was to fabricate the board using a CNC milling machine, solder the components, and test its functionality.  
+In this assignment, we were given a pre-designed electronics board that supports an ESP32 (specifically, the XIAO 4020 model). Our task was to fabricate the board using a CNC milling machine, solder the components, and test its functionality.  
 
 This process involved:  
 - CNC milling to cut the PCB  
@@ -117,5 +117,5 @@ This was a great experience that reinforced my knowledge of CNC milling and sold
 
 ---
 
-🔗 **Reference Repository:** [GitLab Repo](https://gitlab.fabcloud.org/pub/programmers/quentorres/-/tree/main?ref_type=heads)
+🔗 **Reference Repository:** [GitLab Repo](https://fablabbcn-projects.gitlab.io/learning/educational-docs/fabacademy/classes/08-ElectronicsProduction/)
 
