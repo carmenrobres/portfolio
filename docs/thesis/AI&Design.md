@@ -10,13 +10,7 @@ hide:
 
 
 ## AI & Making Manifesto
-<iframe width="315" height="560" 
-src="https://youtube.com/shorts/xD9vm2-mXUk?feature=share" 
-title="YouTube video player" frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-gyroscope; picture-in-picture;
-web-share"
-allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=4z8x_NMop-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
