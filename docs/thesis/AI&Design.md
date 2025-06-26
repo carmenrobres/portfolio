@@ -1,8 +1,6 @@
 ---
 hide:
-  - navigation
   - toc
-  - title
 ---
 
 # The Future of Designing and Making
@@ -14,7 +12,7 @@ hide:
 
 
 ## My thesis
-### Exploring the Integration of Artificial Intelligence into Community Makerspaces to Democratize Design and Fabrication
+**Exploring the Integration of Artificial Intelligence into Community Makerspaces to Democratize Design and Fabrication**
 
 ### Abstract 
 ![](../images/year2/workshop_Carmen.png){style: width="500", align=right}

@@ -1,27 +1,33 @@
 ---
 hide:
-  - navigation
   - toc
-  - title
 ---
 
 # Explorations and Journal
 <div style="height:2px; background-color: #E17858; margin-top: 40px; margin-bottom: -20px;"></div>
 
-- I asked ChatGPT to make a small summary of each month's refections (I talk a lot so this is better). If you want to understand all my process than this is it, if you are more interested in the interventions and the analysis than see the next the *Interventions SIte* and if you want to see the part of the deliverable than go to *Final Deliverable*
+<br></br>
+<br></br>
+I asked ChatGPT to make a small summary of each month's refections (I talk a lot so this is better). If you want to understand all my process than this is it, if you are more interested in the interventions and the analysis than see the next the *Interventions SIte* and if you want to see the part of the deliverable than go to *Final Deliverable*
 
 ## Term1: Mapping the Terrain and Defining Intentions
-**October:**
+### October
+![](../images/year2/Thesisnov1.jpg){style: width="400", align=right}
+
+
 In October, the focus was on understanding the current landscape of AI and defining the intentions for the thesis. Through conversations with professionals and the TANIA chatbot project, I began exploring how AI could be used not just for creativity, but also for community support and fabrication. These early explorations helped me realize AI’s potential as an accessible tool for knowledge and empowerment.
 
 This month was mainly about mapping possibilities: identifying what tools exist, what’s missing, and where AI might fit into design and fabrication spaces. It was also a moment to reflect on whether this work should be aimed at businesses or communities, and whether it could support real fabrication rather than just aesthetics. No prototypes were built yet; this was about setting the direction.
 
-**November**
+### November
+![](../images/year2/Thesisnov.jpg){style: width="400", align=right}
 In November, I focused on exploring AI both as a creative companion and as a practical tool for fabrication. I experimented with platforms like Vizcom, Meshy, LumaLabs, and Krea to understand how they support 3D modeling and design. While these tools proved helpful for generating and rendering concepts—like designing a chair and viewing it from multiple angles—I also realized their limitations when it comes to actual fabrication. The outputs often lacked the precision or structure needed for real-world making.
 
 At the same time, I prototyped an AI assistant bot through a GitHub repository that worked via Telegram, allowing users to share messages, photos, or audio to get fabrication help. While the bot technically functioned, it lacked a clear use case and required a paid API, which made accessibility and context a problem. This month highlighted the need to move beyond general-purpose tools and begin thinking about what kind of AI interactions are truly useful and intuitive in makerspace environments.
 
-**December**
+### December
+![](../images/year2/Thesis.jpg){style: width="500", align=right}
+
 In December, the thesis moved from theoretical exploration into hands-on experimentation. The goal was clear: test if AI could be used to fabricate real objects through natural language inputs, with minimal human involvement. Projects like “make me an organic lamp” served as test cases to explore AI’s potential to generate printable objects from simple, subjective prompts.
 
 What emerged was a split reality. AI could generate interesting shapes for simple items like chairs or vases — but it struggled with subjective language (e.g., “fun” or “organic”) and completely broke down when tasked with functionally demanding objects like lamps, which require structural reasoning, material constraints, or mechanical integration. While rendering and ideation tools offered exciting visuals, actual fabrication still required the user’s judgment and skill.
@@ -38,8 +44,8 @@ This realization led to new questions:
 
 In essence, December marked a turning point: from trying to make things with AI, to designing a framework for how AI could support future community-based making. The research shifted from “What can I make with AI now?” to “What kind of making could AI enable tomorrow — and how do we prepare for that today?”
 
-## Term2: Mapping the Terrain and Defining Intentions
-**January:**
+## Term2:
+### January:
 In January, the project transitioned into a more grounded, application-focused phase. The emphasis shifted toward mapping community makerspaces and identifying potential contexts for AI integration. Three communities were selected as case studies, each representing different needs and possibilities:
 
 - Ateneu de Fabricació de Gràcia – focused on accessible 3D modeling and improving the fabrication process.
@@ -70,7 +76,9 @@ The biggest takeaway from January was that AI tools often need translation layer
 
 This month pushed the project from concept to early prototypes and revealed the importance of co-designing with communities rather than designing for them.
 
-**February**
+### February
+![](../images/year2/3DPrinting.png){style: width="500", align=right}
+
 February was a really important turning point in my thesis. It was the first time I had full, real contact with the communities of practice I wanted to work with. I ended up deciding to focus only on Fab Casa del Mig and Ateneu de Fabricació de Gràcia, and let go of Lichen and Biomaterial Altars. They’re still valuable communities to me personally, but I realized I was spreading myself too thin and needed to go deeper with fewer partners.
 
 These two makerspaces are very different, which helped me see the range of needs and possibilities for AI. Fab Casa del Mig is super neighborhood-based, with the same people coming back again and again. It’s informal, friendly, and focused on learning and experimenting as a community. Ateneu de Gràcia is more structured and institutional — people come for specific projects and there’s a strong focus on giving back, like teaching others after using the space.
@@ -86,14 +94,18 @@ The big realization this month was that AI doesn’t really understand function 
 This month helped me stop thinking about AI as a solution to give people, and start thinking about it as a process to explore with them.
 
 
-**March**
+### March
+![](../images/year2/CNC.png){style: width="500", align=right}
+
 March was my first time teaching AI to others, and it raised a lot of ethical questions. I didn’t want people using tools they didn’t understand, so instead of a hands-on workshop, I ran conference-style sessions. At Ateneu de Gràcia, I taught AI to teachers — they were fascinated but also worried about what this means for the future of design. We agreed the next step was a proper workshop for the community. At Fab Casa del Mig, it was more playful — people explored tools like Krea but didn’t go very deep.
 
 It was also the first time I tested MegaTool, and it didn’t go as expected. Just as I brought it to the community, the API I was using went private — and I realized that relying on external tools makes open-source projects fragile. Even if the code is open, the tools behind it aren’t. That made me question whether building AI-based prototypes for makerspaces makes sense at all — they’re hard to maintain, they break fast, and someone would always need to update them after I leave.
 
 That’s when I started shifting from tool-making to methodology. AI in fabrication might not be about making a single device or app — it’s about helping communities understand the tools, ask the right questions, and use AI critically and creatively. My role became less about building something lasting, and more about starting a conversation that can last on its own.
 
-**April**
+## Term3: 
+
+### April
 April was strange but revealing. I gave a conference-style workshop to a private company and realized how different the expectations are compared to makerspaces. The same AI-for-design presentation that fascinated educators felt almost useless to professional designers. For them, modeling tools didn’t add much — they wanted AI to do the tedious work, like floorplans or adapting mechanisms, not help with creativity. That moment made it clear: AI is still in the research phase, and its value really depends on context.
 
 This was also the month I officially let go of MegaTool. The API I was using went private just as I tried to open it to the community — and that made me reflect on how fragile open-source projects are when they rely on third-party tools. Even if the idea is good, maintaining something like this alone, for a community space, isn’t sustainable. I realized it’s not about building tools — it’s about building methods for how to use and question them.
@@ -104,8 +116,11 @@ I also met with Pietro and Chris — developers working at the intersection of d
 
 So the focus turned toward knowledge-sharing and community literacy, not tool deployment. Because if AI can’t yet help people make things directly, it can at least help them learn how to make.
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/EDWO3KsGYVlGeHWHMjIgnX/AI-PRESENTATIONS?node-id=0-1&embed-host=share" allowfullscreen></iframe>
 
-**May**
+
+### May
+![](../images/year2//workshop.jpeg){style: width="500", align=right}
 In May, I finally ran the full workshop, testing it across MDEF and Fab Casa del Mig, and preparing for Ateneu. The MDEF group — speculative designers — responded really well. They saw how AI could democratize design in makerspaces by giving more people access to tools and processes. But they also saw the difference between AI for community use and AI for business. In commercial settings, there's more pressure, responsibility, and ethical complexity — it's not just about learning or experimenting, it’s about production, profit, and consequences.
 
 At Fab Casa del Mig, the group was more diverse — some took 30 minutes to log in, while others were experienced designers. The activities were playful and competitive, and while people enjoyed themselves, I noticed something recurring: designers want AI to do the tedious work, like floorplans and tech prep, not to help them imagine. And non-experts don’t always know how to question the tool, which makes it hard for them to use it meaningfully.
@@ -118,7 +133,9 @@ AI for fabrication still lacks the maturity to deliver usable results, and if it
 
 If AI is to help in makerspaces, it may not be through software — maybe it’s a physical assistant, like a small robot or embedded system, that can explain how to use machines and free up human facilitators. But whatever it becomes, we need to keep asking: what is AI really for — and who is it serving? Because we’re not just using tools; we’re shaping how people learn, make, and imagine the future.
 
-**June**
+### June
+![](../images/year2/mani.JPEG){style: width="500", align=right}
+
 June was supposed to be the closing of my thesis — the end of the workshops and the beginning of some kind of conclusion. But honestly, it didn’t feel like a closing at all. I ran the final workshops at Ateneu de Gràcia and MDEFest, and while they echoed much of the feedback I’d already received — curiosity, ethical tension, excitement, and skepticism — what became clearest was that this project isn’t finished. It’s a mapping. A beginning. A big question with no single answer.
 
 Throughout this journey, I tried to cover three enormous fields at once: AI in design, AI in fabrication, and AI in makerspaces. Each of these could have been a thesis on its own, and I now understand that in six months, the most valuable thing I could do was map the terrain — not solve it. AI is evolving fast. New tools are emerging that already do things I was struggling with just a few months ago — like breaking models into pieces or recognizing and modifying a design. It makes any attempt at a “final prototype” feel outdated the moment it’s built.
